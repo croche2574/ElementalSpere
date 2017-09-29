@@ -523,3 +523,170 @@ LogInit: Object subsystem initialized
 [2017.09.29-00.21.40:909][922]LogSavePackage: Save=4.57ms
 [2017.09.29-00.21.40:909][922]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/MainMenu_BuiltData60AB0FE04CB45435F487549AB37AF867.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu_BuiltData.uasset'
 [2017.09.29-00.21.40:911][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu_BuiltData.uasset
+[2017.09.29-00.27.36:191][591]LogSavePackage: Save=7.87ms
+[2017.09.29-00.27.36:191][591]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/PlayerInfoAABBCB2842D36B189CF5ED913480C515.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/PlayerInfo.uasset'
+[2017.09.29-00.27.36:194][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/PlayerInfo.uasset
+[2017.09.29-00.28.45:309][300]BlueprintLog: New page: Compile PlayerSaveGame
+[2017.09.29-00.29.09:609][752]BlueprintLog: New page: Compile PlayerSaveGame
+[2017.09.29-00.29.10:720][815]LogSavePackage: Save=6.39ms
+[2017.09.29-00.29.10:720][815]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/PlayerSaveGame0F5D804D41F3E4A91494828C57C1FA2D.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/PlayerSaveGame.uasset'
+[2017.09.29-00.29.10:724][815]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/PlayerSaveGame.uasset
+[2017.09.29-00.29.24:252][626]BlueprintLog: New page: Compile PlayerSaveGame
+[2017.09.29-00.29.24:755][653]LogSavePackage: Save=6.72ms
+[2017.09.29-00.29.24:755][653]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/PlayerSaveGameADB20592409A0AA335CCC3B9BBDD3468.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/PlayerSaveGame.uasset'
+[2017.09.29-00.29.24:758][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/PlayerSaveGame.uasset
+[2017.09.29-00.30.43:006][755]LogAIModule: Creating AISystem for world Map01
+[2017.09.29-00.30.43:039][755]Cmd: MAP LOAD FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.29-00.30.43:039][755]LightingResults: New page: Lighting Build
+[2017.09.29-00.30.43:040][755]LoadErrors: New page: Loading map: Map01.umap
+[2017.09.29-00.30.43:040][755]MapCheck: New page: Map Check
+[2017.09.29-00.30.43:040][755]LightingResults: New page: Lighting Build
+[2017.09.29-00.30.43:063][755]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.29-00.30.43:101][755]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.29-00.30.43:166][755]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.232ms to complete.
+[2017.09.29-00.30.43:166][755]LogFileHelpers: Loading map 'Map01' took 0.128
+[2017.09.29-00.31.18:405][863]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.29-00.31.58:285][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map01" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.29-00.31.58:357][251]LogSavePackage: Save=45.72ms
+[2017.09.29-00.31.58:357][251]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Map01D6DD30F24F81D6FF7EB338A734AC92F7.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map01.umap'
+[2017.09.29-00.31.58:362][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map01.umap
+[2017.09.29-00.31.58:388][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map01_BuiltData" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map01_BuiltData.uasset" SILENT=true
+[2017.09.29-00.31.58:400][251]LogSavePackage: Save=4.38ms
+[2017.09.29-00.31.58:400][251]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Map01_BuiltData468FFF0C4E392C2F47896B901FECDFE1.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map01_BuiltData.uasset'
+[2017.09.29-00.31.58:401][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map01_BuiltData.uasset
+[2017.09.29-00.32.00:256][361]LogUObjectGlobals: Warning: Guid referenced by ArrowComponent /Game/Maps/Map02.Map02:PersistentLevel.Light.ArrowComponent0 is already used by ArrowComponent /Game/Maps/Map01.Map01:PersistentLevel.Light.ArrowComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:256][361]LogUObjectGlobals: Warning: Guid referenced by ArrowComponent /Game/Maps/Map02.Map02:PersistentLevel.PlayerStart_1.Arrow is already used by ArrowComponent /Game/Maps/Map01.Map01:PersistentLevel.PlayerStart_1.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:256][361]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Game/Maps/Map02.Map02:PersistentLevel.PlayerStart_1.Sprite is already used by BillboardComponent /Game/Maps/Map01.Map01:PersistentLevel.PlayerStart_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:256][361]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Game/Maps/Map02.Map02:PersistentLevel.PlayerStart_1.Sprite2 is already used by BillboardComponent /Game/Maps/Map01.Map01:PersistentLevel.PlayerStart_1.Sprite2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:256][361]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Game/Maps/Map02.Map02:PersistentLevel.SkyLight_1.Sprite is already used by BillboardComponent /Game/Maps/Map01.Map01:PersistentLevel.SkyLight_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:257][361]LogUObjectGlobals: Warning: Guid referenced by BrushComponent /Game/Maps/Map02.Map02:PersistentLevel.LightmassImportanceVolume_1.BrushComponent0 is already used by BrushComponent /Game/Maps/Map01.Map01:PersistentLevel.LightmassImportanceVolume_1.BrushComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:257][361]LogUObjectGlobals: Warning: Guid referenced by BrushComponent /Game/Maps/Map02.Map02:PersistentLevel.PostProcess.BrushComponent0 is already used by BrushComponent /Game/Maps/Map01.Map01:PersistentLevel.PostProcess.BrushComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:257][361]LogUObjectGlobals: Warning: Guid referenced by CapsuleComponent /Game/Maps/Map02.Map02:PersistentLevel.PlayerStart_1.CollisionCapsule is already used by CapsuleComponent /Game/Maps/Map01.Map01:PersistentLevel.PlayerStart_1.CollisionCapsule, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:257][361]LogUObjectGlobals: Warning: Guid referenced by DirectionalLightComponent /Game/Maps/Map02.Map02:PersistentLevel.Light.LightComponent0 is already used by DirectionalLightComponent /Game/Maps/Map01.Map01:PersistentLevel.Light.LightComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:257][361]LogUObjectGlobals: Warning: Guid referenced by SkyLightComponent /Game/Maps/Map02.Map02:PersistentLevel.SkyLight_1.SkyLightComponent0 is already used by SkyLightComponent /Game/Maps/Map01.Map01:PersistentLevel.SkyLight_1.SkyLightComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:257][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Ball.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Ball.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:257][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:257][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_0.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_0.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:257][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_1.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_1.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_10.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_10.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_11.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_11.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_2.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_2.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_3.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_3.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_4.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_4.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_5.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_5.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_6.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_6.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_7.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_7.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_8.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_8.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Cube_9.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Cube_9.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.frozen_Room_0.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.frozen_Room_0.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:258][361]LogUObjectGlobals: Warning: Guid referenced by StaticMeshComponent /Game/Maps/Map02.Map02:PersistentLevel.Pyramid.StaticMeshComponent0 is already used by StaticMeshComponent /Game/Maps/Map01.Map01:PersistentLevel.Pyramid.StaticMeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.09.29-00.32.00:260][361]LogAIModule: Creating AISystem for world Map02
+[2017.09.29-00.32.01:535][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayGM" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2017.09.29-00.32.01:556][361]LogSavePackage: Save=13.31ms
+[2017.09.29-00.32.01:556][361]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameplayGM08DD36EA475609CAAF99A6B190077ABB.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2017.09.29-00.32.01:562][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Gameplay/GameplayGM.uasset
+[2017.09.29-00.32.01:563][361]Cmd: MAP LOAD FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.29-00.32.01:564][361]LightingResults: New page: Lighting Build
+[2017.09.29-00.32.01:565][361]LoadErrors: New page: Loading map: Map02.umap
+[2017.09.29-00.32.01:566][361]MapCheck: New page: Map Check
+[2017.09.29-00.32.01:566][361]LightingResults: New page: Lighting Build
+[2017.09.29-00.32.01:644][361]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.29-00.32.01:689][361]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.29-00.32.01:748][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.508ms to complete.
+[2017.09.29-00.32.01:751][361]LogFileHelpers: Loading map 'Map02' took 0.189
+[2017.09.29-00.32.01:752][361]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.29-00.32.31:683][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map02" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.29-00.32.31:751][695]LogSavePackage: Save=42.72ms
+[2017.09.29-00.32.31:751][695]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Map022CD700A843A32E7B991FE5A99E658E2E.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map02.umap'
+[2017.09.29-00.32.31:754][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map02.umap
+[2017.09.29-00.32.31:779][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map02_BuiltData" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map02_BuiltData.uasset" SILENT=true
+[2017.09.29-00.32.31:790][695]LogSavePackage: Save=4.95ms
+[2017.09.29-00.32.31:790][695]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Map02_BuiltData76DCAC534D1F1662131CA6BE3296E87C.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map02_BuiltData.uasset'
+[2017.09.29-00.32.31:792][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Map02_BuiltData.uasset
+[2017.09.29-00.34.04:707][498]LogAIModule: Creating AISystem for world Lobby
+[2017.09.29-00.34.04:729][498]Cmd: MAP LOAD FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.29-00.34.04:730][498]LightingResults: New page: Lighting Build
+[2017.09.29-00.34.04:730][498]LoadErrors: New page: Loading map: Lobby.umap
+[2017.09.29-00.34.04:731][498]MapCheck: New page: Map Check
+[2017.09.29-00.34.04:731][498]LightingResults: New page: Lighting Build
+[2017.09.29-00.34.04:800][498]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.29-00.34.04:843][498]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.29-00.34.04:910][498]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.459ms to complete.
+[2017.09.29-00.34.04:910][498]LogFileHelpers: Loading map 'Lobby' took 0.182
+[2017.09.29-00.34.06:430][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.29-00.34.22:323][535]MapCheck: New page: Map Check
+[2017.09.29-00.34.22:337][535]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.29-00.34.22:337][535]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.29-00.34.22:480][535]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.29-00.34.22:492][535]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.29-00.34.22:497][535]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2017.09.29-00.34.23:049][535]TextureStreamingBuild: Display: Compiling optional shaders took 0.579 seconds.
+[2017.09.29-00.34.23:062][535]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2017.09.29-00.34.23:066][535]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2017.09.29-00.34.23:083][535]LightingResults: New page: Lighting Build - Sep 28, 2017, 4:34:23 PM
+[2017.09.29-00.34.23:133][535]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.29-00.34.23:186][535]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.29-00.34.23:199][535]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.29-00.34.24:226][535]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.29-00.34.24:226][535]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10120
+[2017.09.29-00.34.27:121][535]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.29-00.34.27:122][535]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.29-00.34.27:122][535]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.29-00.34.27:122][535]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.29-00.34.27:122][535]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.29-00.34.27:122][535]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.29-00.34.27:257][535]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.29-00.34.27:257][535]MapCheck: New page: Lobby - Sep 28, 2017, 4:34:27 PM
+[2017.09.29-00.34.27:259][535]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.09.29-00.34.27:320][535]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 62.445ms to complete.
+[2017.09.29-00.34.27:342][535]LogEditorBuildUtils: Build time 0:05
+[2017.09.29-00.34.29:547][605]Job is a success!
+[2017.09.29-00.34.29:650][606]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.09.29-00.34.29:650][606]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.09.29-00.34.29:650][606]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.09.29-00.34.29:650][606]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.09.29-00.34.29:650][606]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2017.09.29-00.34.29:650][606]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2017.09.29-00.34.29:677][606]Lightmass on DESKTOP-SIJTC7B: 816 ms total, 135 ms importing, 24 ms setup, 269 ms photons, 352 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.30 sec total, 251 ms processing.
+[2017.09.29-00.34.29:705][606]LogStaticLightingSystem: Illumination: 6.60 sec (8 ms encoding lightmaps, 26 ms encoding shadowmaps)
+[2017.09.29-00.34.29:705][606]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.29-00.34.29:705][606]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.29-00.34.30:127][606]DumpUnbuiltLightIteractions
+[2017.09.29-00.34.30:127][606]Lights with unbuilt interactions: 0
+[2017.09.29-00.34.30:127][606]
+[2017.09.29-00.34.30:127][606]Primitives with unbuilt interactions: 0
+[2017.09.29-00.34.30:141][607]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.29-00.34.30:142][607]MapCheck: New page: Lobby - Sep 28, 2017, 4:34:30 PM
+[2017.09.29-00.34.30:208][607]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.696ms to complete.
+[2017.09.29-00.34.35:189][905]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.29-00.34.53:643][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.29-00.34.53:692][  9]LogSavePackage: Save=22.95ms
+[2017.09.29-00.34.53:692][  9]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyD9EA029E404A7F6D08CD2D9DE5CC599F.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap'
+[2017.09.29-00.34.53:696][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap
+[2017.09.29-00.34.53:723][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2017.09.29-00.34.53:739][  9]LogSavePackage: Save=14.15ms
+[2017.09.29-00.34.53:739][  9]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Lobby_BuiltDataB7019DA34910CA41E7EE6D83FD922824.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby_BuiltData.uasset'
+[2017.09.29-00.34.53:742][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby_BuiltData.uasset
+[2017.09.29-00.35.07:293][822]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.09.29-00.36.07:203][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.29-00.36.07:250][925]LogSavePackage: Save=23.23ms
+[2017.09.29-00.36.07:250][925]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyF60E2AC94584F4179F270380460A18AA.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap'
+[2017.09.29-00.36.07:258][925]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap
+[2017.09.29-00.36.07:323][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2017.09.29-00.36.07:342][925]LogSavePackage: Save=11.18ms
+[2017.09.29-00.36.07:342][925]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Lobby_BuiltData592D37E140A0A8AC7014D99500CCF2E8.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby_BuiltData.uasset'
+[2017.09.29-00.36.07:343][925]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby_BuiltData.uasset
+[2017.09.29-00.36.12:414][227]LogAIModule: Creating AISystem for world MainMenu
+[2017.09.29-00.36.13:640][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2017.09.29-00.36.13:665][227]LogSavePackage: Save=15.81ms
+[2017.09.29-00.36.13:665][227]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyGM4969977848676E9D2C84ADB414AAD4D4.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2017.09.29-00.36.13:668][227]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset
+[2017.09.29-00.36.13:669][227]Cmd: MAP LOAD FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.29-00.36.13:669][227]LightingResults: New page: Lighting Build
+[2017.09.29-00.36.13:670][227]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.09.29-00.36.13:670][227]MapCheck: New page: Map Check
+[2017.09.29-00.36.13:670][227]LightingResults: New page: Lighting Build
+[2017.09.29-00.36.13:750][227]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.29-00.36.13:791][227]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.29-00.36.13:855][227]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.788ms to complete.
+[2017.09.29-00.36.13:856][227]LogFileHelpers: Loading map 'MainMenu' took 0.188
