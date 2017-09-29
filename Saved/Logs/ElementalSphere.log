@@ -407,3 +407,119 @@ LogInit: Object subsystem initialized
 [2017.09.28-22.19.18:825][757]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/TravelMap736D974A4CF2BF2C8B311887C751EE4A.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/TravelMap.umap'
 [2017.09.28-22.19.18:830][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/TravelMap.umap
 [2017.09.28-22.19.18:831][757]LogFileHelpers: Saving map 'TravelMap' took 0.094
+[2017.09.28-22.21.59:016][209]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 113 classes and 0 folders.
+[2017.09.28-22.21.59:718][209]LogSlate: Took 0.004047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.28-23.21.20:606][447]LogSlate: Took 0.005316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.28-23.21.39:675][579]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.28-23.22.25:416][323]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.023
+[2017.09.28-23.22.25:418][323]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AllLevels/GameInfoInstance] ([1] browsable assets)...
+[2017.09.28-23.22.25:418][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AllLevels/GameInfoInstance]
+[2017.09.28-23.22.25:437][323]LogSavePackage: Save=13.67ms
+[2017.09.28-23.22.25:437][323]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance_Auto39E6E2F564091722122E3D5B9EC10ACE5.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto3.uasset'
+[2017.09.28-23.22.25:438][323]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto3.uasset
+[2017.09.28-23.22.25:438][323]LogFileHelpers: Auto-saving content packages took 0.021
+[2017.09.28-23.32.28:903][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.020
+[2017.09.28-23.32.28:904][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AllLevels/GameInfoInstance] ([1] browsable assets)...
+[2017.09.28-23.32.28:904][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AllLevels/GameInfoInstance]
+[2017.09.28-23.32.28:940][ 59]LogSavePackage: Save=30.64ms
+[2017.09.28-23.32.28:940][ 59]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance_Auto420CB73754BD77BBDDA1A06BFB5E9810D.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto4.uasset'
+[2017.09.28-23.32.28:941][ 59]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto4.uasset
+[2017.09.28-23.32.28:941][ 59]LogFileHelpers: Auto-saving content packages took 0.037
+[2017.09.28-23.39.37:467][374]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.28-23.40.45:714][754]LogSlate: Took 0.004380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.09.28-23.43.46:481][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.024
+[2017.09.28-23.43.46:482][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AllLevels/GameInfoInstance] ([1] browsable assets)...
+[2017.09.28-23.43.46:482][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AllLevels/GameInfoInstance]
+[2017.09.28-23.43.46:544][258]LogSavePackage: Save=56.67ms
+[2017.09.28-23.43.46:544][258]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance_Auto572F7C9C04DE898F570D95B9B6E4BDF3C.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto5.uasset'
+[2017.09.28-23.43.46:545][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto5.uasset
+[2017.09.28-23.43.46:545][258]LogFileHelpers: Auto-saving content packages took 0.063
+[2017.09.28-23.48.21:026][824]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.28-23.48.21:714][856]LogSavePackage: Save=66.22ms
+[2017.09.28-23.48.21:714][856]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstanceC0F3D7A74155E5AF86FBE79A61E8E5D3.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.28-23.48.21:717][856]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.28-23.49.29:675][270]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.28-23.49.30:665][321]LogSavePackage: Save=61.55ms
+[2017.09.28-23.49.30:665][321]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstanceF9EA11CE4FF0A4F47EDE8397085024E9.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.28-23.49.30:669][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.28-23.50.01:592][888]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.28-23.50.02:193][916]LogSavePackage: Save=62.96ms
+[2017.09.28-23.50.02:193][916]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance1059D89D4F4656816C04989BA3552233.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.28-23.50.02:197][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.28-23.54.27:339][816]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.045
+[2017.09.28-23.54.27:343][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AllLevels/GameInfoInstance] ([1] browsable assets)...
+[2017.09.28-23.54.27:343][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AllLevels/GameInfoInstance]
+[2017.09.28-23.54.27:463][816]LogSavePackage: Save=114.36ms
+[2017.09.28-23.54.27:463][816]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance_Auto6E08EEC8045DEC2616E197196F3312842.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto6.uasset'
+[2017.09.28-23.54.27:464][816]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto6.uasset
+[2017.09.28-23.54.27:465][816]LogFileHelpers: Auto-saving content packages took 0.123
+[2017.09.28-23.56.23:008][833]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.29-00.04.31:201][561]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.29-00.04.32:494][628]LogSavePackage: Save=78.24ms
+[2017.09.29-00.04.32:494][628]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance61E5697E4129EB06898671B21B90BAC6.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.29-00.04.32:498][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.29-00.07.07:249][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.019
+[2017.09.29-00.07.07:250][674]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AllLevels/GameInfoInstance] ([1] browsable assets)...
+[2017.09.29-00.07.07:251][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AllLevels/GameInfoInstance]
+[2017.09.29-00.07.07:341][674]LogSavePackage: Save=86.71ms
+[2017.09.29-00.07.07:341][674]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance_Auto7838CB7FD4ABA8E3AEC5795AB0A8DCB3F.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto7.uasset'
+[2017.09.29-00.07.07:346][674]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto7.uasset
+[2017.09.29-00.07.07:346][674]LogFileHelpers: Auto-saving content packages took 0.096
+[2017.09.29-00.08.53:022][534]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.29-00.08.53:660][562]LogSavePackage: Save=82.91ms
+[2017.09.29-00.08.53:660][562]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstanceC9DAEDD44888A81B7276649F0A99B7E1.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.29-00.08.53:663][562]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.29-00.11.16:615][313]LogSavePackage: Save=80.21ms
+[2017.09.29-00.11.16:615][313]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance69370AAD468B93F2499EB09952B2B765.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.29-00.11.16:619][313]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.29-00.11.17:119][343]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.29-00.11.18:382][408]LogSavePackage: Save=79.43ms
+[2017.09.29-00.11.18:382][408]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance69B704274751555C55EA10AC3688C10B.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.29-00.11.18:384][408]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.29-00.13.01:745][862]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.29-00.13.02:309][885]LogSavePackage: Save=85.64ms
+[2017.09.29-00.13.02:309][885]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance610F19AC44842E0877904BA09D3B44DB.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.29-00.13.02:312][885]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.29-00.13.15:132][653]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.29-00.13.15:698][677]LogSavePackage: Save=82.27ms
+[2017.09.29-00.13.15:698][677]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance09A25172497D422FD3D623A7F3DF3DFD.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.29-00.13.15:701][677]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.29-00.17.25:973][856]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.022
+[2017.09.29-00.17.25:976][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AllLevels/GameInfoInstance] ([1] browsable assets)...
+[2017.09.29-00.17.25:976][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AllLevels/GameInfoInstance]
+[2017.09.29-00.17.26:079][856]LogSavePackage: Save=93.71ms
+[2017.09.29-00.17.26:079][856]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance_Auto801ACD2D44A621203078F41829BB529F7.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto8.uasset'
+[2017.09.29-00.17.26:081][856]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/AllLevels/GameInfoInstance_Auto8.uasset
+[2017.09.29-00.17.26:081][856]LogFileHelpers: Auto-saving content packages took 0.106
+[2017.09.29-00.18.06:867][287]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.29-00.18.07:985][343]LogSavePackage: Save=91.66ms
+[2017.09.29-00.18.07:985][343]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance4695D55746A428D2F6AABCA86AE9ACA5.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.29-00.18.07:988][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.29-00.19.34:435][245]LogSavePackage: Save=97.29ms
+[2017.09.29-00.19.34:435][245]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance99B33405468FE2894FB3B6A0CC0030A8.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.29-00.19.34:438][245]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.29-00.19.44:150][822]LogAIModule: Creating AISystem for world MainMenu
+[2017.09.29-00.19.44:182][822]Cmd: MAP LOAD FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.29-00.19.44:182][822]LightingResults: New page: Lighting Build
+[2017.09.29-00.19.44:231][822]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0010 seconds. Added 5 classes and 0 folders.
+[2017.09.29-00.19.44:235][822]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.09.29-00.19.44:236][822]MapCheck: New page: Map Check
+[2017.09.29-00.19.44:236][822]LightingResults: New page: Lighting Build
+[2017.09.29-00.19.44:300][822]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.29-00.19.44:341][822]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.29-00.19.44:400][822]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.008ms to complete.
+[2017.09.29-00.19.44:401][822]LogFileHelpers: Loading map 'MainMenu' took 0.223
+[2017.09.29-00.21.37:897][764]BlueprintLog: New page: Compile MainMenu
+[2017.09.29-00.21.38:507][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.29-00.21.38:556][794]LogSavePackage: Save=22.93ms
+[2017.09.29-00.21.38:556][794]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/MainMenu45728DFF4AC971268CE6B6BA5472C271.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu.umap'
+[2017.09.29-00.21.38:559][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu.umap
+[2017.09.29-00.21.38:622][794]LogFileHelpers: Saving map 'MainMenu' took 0.175
+[2017.09.29-00.21.40:829][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.29-00.21.40:873][922]LogSavePackage: Save=22.24ms
+[2017.09.29-00.21.40:873][922]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/MainMenuEC6D53084E58030131C44E972FCC219F.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu.umap'
+[2017.09.29-00.21.40:874][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu.umap
+[2017.09.29-00.21.40:899][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2017.09.29-00.21.40:909][922]LogSavePackage: Save=4.57ms
+[2017.09.29-00.21.40:909][922]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/MainMenu_BuiltData60AB0FE04CB45435F487549AB37AF867.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu_BuiltData.uasset'
+[2017.09.29-00.21.40:911][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/MainMenu_BuiltData.uasset
