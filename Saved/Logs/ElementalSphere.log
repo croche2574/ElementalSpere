@@ -598,3 +598,102 @@ LogInit: Object subsystem initialized
 [2017.09.29-12.53.58:598][856]LogSavePackage: Save=50.96ms
 [2017.09.29-12.53.58:598][856]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/BallBase50421E474867AB9645BB0C99BEDE85F5.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Characters/BallBase.uasset'
 [2017.09.29-12.53.58:601][856]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Characters/BallBase.uasset
+[2017.09.29-18.16.09:851][120]LogHttp: Warning: 0000023EB4652800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.29-18.16.09:851][120]LogHttp: Warning: 0000023EB4652800: libcurl info message cache 0 (Connection 9 seems to be dead!)
+[2017.09.29-18.16.09:851][120]LogHttp: Warning: 0000023EB4652800: libcurl info message cache 1 (Closing connection 9)
+[2017.09.29-18.16.09:851][120]LogHttp: Warning: 0000023EB4652800: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.09.29-18.16.09:851][120]LogHttp: Warning: 0000023EB4652800: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.29-18.16.09:851][120]LogHttp: Warning: 0000023EB4652800: libcurl info message cache 4 (Closing connection 10)
+[2017.09.29-18.19.37:287][427]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.29-18.19.37:306][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.29-18.19.37:306][427]PIE: New page: PIE session: Lobby (Sep 29, 2017, 10:19:37 AM)
+[2017.09.29-18.19.37:307][427]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.09.29-18.19.37:320][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013280s)
+[2017.09.29-18.19.37:321][427]LogAIModule: Creating AISystem for world Lobby
+[2017.09.29-18.19.37:321][427]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2017.09.29-18.19.37:322][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.014719s)
+[2017.09.29-18.19.37:374][427]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.29-18.19.37:382][427]LogInit: FAudioDevice initialized.
+[2017.09.29-18.19.37:429][427]LogLoad: Game class is 'LobbyGM_C'
+[2017.09.29-18.19.37:431][427]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.09.29-14.19.37
+[2017.09.29-18.19.37:432][427]LogWorld: Bringing up level for play took: 0.001604
+[2017.09.29-18.19.37:437][427]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.11
+[2017.09.29-18.21.27:180][323]BlueprintLog: New page: Compile BallBase
+[2017.09.29-18.21.28:178][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BallBase" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Characters/BallBase.uasset" SILENT=true
+[2017.09.29-18.21.28:259][376]LogSavePackage: Save=58.86ms
+[2017.09.29-18.21.28:259][376]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/BallBaseC50638F34813177749F51B924221CE1E.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Characters/BallBase.uasset'
+[2017.09.29-18.21.28:266][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Characters/BallBase.uasset
+[2017.09.29-18.21.29:430][513]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.29-18.21.29:447][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.29-18.21.29:447][513]PIE: New page: PIE session: Lobby (Sep 29, 2017, 10:21:29 AM)
+[2017.09.29-18.21.29:448][513]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.09.29-18.21.29:451][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003506s)
+[2017.09.29-18.21.29:452][513]LogAIModule: Creating AISystem for world Lobby
+[2017.09.29-18.21.29:452][513]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2017.09.29-18.21.29:452][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.004670s)
+[2017.09.29-18.21.29:499][513]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.29-18.21.29:504][513]LogInit: FAudioDevice initialized.
+[2017.09.29-18.21.29:551][513]LogLoad: Game class is 'LobbyGM_C'
+[2017.09.29-18.21.29:553][513]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.09.29-14.21.29
+[2017.09.29-18.21.29:553][513]LogWorld: Bringing up level for play took: 0.001452
+[2017.09.29-18.21.29:557][513]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.231
+[2017.09.29-18.22.12:836][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.29-18.22.12:901][215]LogSavePackage: Save=37.35ms
+[2017.09.29-18.22.12:901][215]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyE875D79E4D9BA164BC70B48CB3CA3982.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap'
+[2017.09.29-18.22.12:904][215]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap
+[2017.09.29-18.22.12:935][215]LogFileHelpers: Saving map 'Lobby' took 1.746
+[2017.09.29-18.22.28:323][  5]Cmd: DELETE
+[2017.09.29-18.22.28:323][  5]Cmd: ACTOR DELETE
+[2017.09.29-18.22.28:324][  5]LogEditorActor: Deleted Actor: BallBase_C
+[2017.09.29-18.22.28:369][  5]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2017.09.29-18.22.31:582][379]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.29-18.22.31:607][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.29-18.22.31:607][379]PIE: New page: PIE session: Lobby (Sep 29, 2017, 10:22:31 AM)
+[2017.09.29-18.22.31:608][379]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.09.29-18.22.31:611][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003545s)
+[2017.09.29-18.22.31:612][379]LogAIModule: Creating AISystem for world Lobby
+[2017.09.29-18.22.31:612][379]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2017.09.29-18.22.31:613][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.004668s)
+[2017.09.29-18.22.31:629][379]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.29-18.22.31:636][379]LogInit: FAudioDevice initialized.
+[2017.09.29-18.22.31:683][379]LogLoad: Game class is 'LobbyGM_C'
+[2017.09.29-18.22.31:684][379]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2017.09.29-14.22.31
+[2017.09.29-18.22.31:684][379]LogWorld: Bringing up level for play took: 0.001206
+[2017.09.29-18.22.31:689][379]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.363
+[2017.09.29-18.23.31:829][171]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.29-18.23.31:994][171]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2017.09.29-18.24.57:943][819]BlueprintLog: New page: Compile GameInfoInstance
+[2017.09.29-18.24.58:789][891]LogSavePackage: Save=90.24ms
+[2017.09.29-18.24.58:789][891]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameInfoInstance6A2D2026483AAFBD07213EB7A3DA67EC.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2017.09.29-18.24.58:792][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/AllLevels/GameInfoInstance.uasset
+[2017.09.29-18.26.39:061][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Rolling/Meshes/BallMesh" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Meshes/BallMesh.uasset" SILENT=true
+[2017.09.29-18.26.39:078][311]LogSavePackage: Save=15.41ms
+[2017.09.29-18.26.39:078][311]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/BallMesh34BE91A14966141BD975F598A8062C3D.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Meshes/BallMesh.uasset'
+[2017.09.29-18.26.39:082][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Meshes/BallMesh.uasset
+[2017.09.29-18.26.39:124][311]LogSavePackage: Save=18.53ms
+[2017.09.29-18.26.39:124][311]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/M_Blue_CheckerA8F2E7514B6B926531FD6D863796842A.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/M_Blue_Checker.uasset'
+[2017.09.29-18.26.39:127][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/M_Blue_Checker.uasset
+[2017.09.29-18.26.39:136][311]LogSavePackage: Save=4.22ms
+[2017.09.29-18.26.39:136][311]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/PM_BallBFBA5AED48EF32757851F09AFB283288.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/PM_Ball.uasset'
+[2017.09.29-18.26.39:139][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/PM_Ball.uasset
+[2017.09.29-18.26.39:183][311]LogSavePackage: Save=15.72ms
+[2017.09.29-18.26.39:183][311]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/OrangeMetalMaterialE797621041EF997F6B2676B4748515C2.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/OrangeMetalMaterial.uasset'
+[2017.09.29-18.26.39:186][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/OrangeMetalMaterial.uasset
+[2017.09.29-18.26.39:222][311]LogSavePackage: Save=16.45ms
+[2017.09.29-18.26.39:222][311]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GrayMetalMaterial995AE00846C1E099CB0A549B5EBDC969.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/GrayMetalMaterial.uasset'
+[2017.09.29-18.26.39:225][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/GrayMetalMaterial.uasset
+[2017.09.29-18.26.39:260][311]LogSavePackage: Save=14.24ms
+[2017.09.29-18.26.39:260][311]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GrayMaterialCBE24C784AE1E5150DACA0BDE299F4D2.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/GrayMaterial.uasset'
+[2017.09.29-18.26.39:263][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/GrayMaterial.uasset
+[2017.09.29-18.26.39:298][311]LogSavePackage: Save=14.61ms
+[2017.09.29-18.26.39:298][311]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/BaseMaterialBA36740740DB1083FD674E9BB78E5FE0.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/BaseMaterial.uasset'
+[2017.09.29-18.26.39:301][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Rolling/Materials/BaseMaterial.uasset
+[2017.09.29-18.26.39:829][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BallBase" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Characters/BallBase.uasset" SILENT=true
+[2017.09.29-18.26.39:895][311]LogSavePackage: Save=55.38ms
+[2017.09.29-18.26.39:895][311]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/BallBase9570EA06408DDDCF88F8CD8FD42266F7.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Characters/BallBase.uasset'
+[2017.09.29-18.26.39:898][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Characters/BallBase.uasset
+[2017.09.29-18.27.15:120][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.29-18.27.15:180][923]LogSavePackage: Save=33.46ms
+[2017.09.29-18.27.15:180][923]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Lobby735E7E2C49668C556EEB5AB0753A86DA.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap'
+[2017.09.29-18.27.15:183][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap
+[2017.09.29-18.27.15:247][923]LogFileHelpers: Saving map 'Lobby' took 0.192
