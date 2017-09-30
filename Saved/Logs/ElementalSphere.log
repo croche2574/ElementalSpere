@@ -6177,3 +6177,1037 @@ LogInit: Object subsystem initialized
 [2017.09.29-23.34.38:396][185]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2017.09.29-19.34.38
 [2017.09.29-23.34.38:397][185]LogWorld: Bringing up level for play took: 0.002445
 [2017.09.29-23.34.38:407][185]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.898
+[2017.09.30-00.01.16:378][109]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/gold-scuffed-Unreal-Engine/gold-scuffed-Unreal-Engine/gold-scuffed_basecolor.png)
+[2017.09.30-00.01.16:551][109]LogTexture: Display: Building textures: gold-scuffed_basecolor (AutoDXT, 2048X2048)
+[2017.09.30-00.01.17:062][109]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/gold-scuffed-Unreal-Engine/gold-scuffed-Unreal-Engine/gold-scuffed_basecolor-boosted.png)
+[2017.09.30-00.01.17:210][109]LogTexture: Display: Building textures: gold-scuffed_basecolor-boosted (AutoDXT, 2048X2048)
+[2017.09.30-00.01.17:719][109]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/gold-scuffed-Unreal-Engine/gold-scuffed-Unreal-Engine/gold-scuffed_metallic.png)
+[2017.09.30-00.01.17:733][109]LogTexture: Display: Building textures: gold-scuffed_metallic (AutoDXT, 2048X2048)
+[2017.09.30-00.01.18:239][109]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/gold-scuffed-Unreal-Engine/gold-scuffed-Unreal-Engine/gold-scuffed_normal.png)
+[2017.09.30-00.01.18:391][109]LogTexture: Display: Building textures: gold-scuffed_normal (BC5, 2048X2048)
+[2017.09.30-00.01.18:712][109]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/gold-scuffed-Unreal-Engine/gold-scuffed-Unreal-Engine/gold-scuffed_roughness.png)
+[2017.09.30-00.01.18:769][109]LogTexture: Display: Building textures: gold-scuffed_roughness (AutoDXT, 2048X2048)
+[2017.09.30-00.01.22:651][290]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.018
+[2017.09.30-00.01.22:658][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Gold/gold-scuffed_roughness] ([1] browsable assets)...
+[2017.09.30-00.01.22:666][290]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Gold/gold-scuffed_roughness.gold-scuffed_roughness]
+[2017.09.30-00.01.22:666][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Gold/gold-scuffed_roughness]
+[2017.09.30-00.01.22:682][290]LogSavePackage: Save=12.82ms
+[2017.09.30-00.01.22:682][290]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_roughness_Auto95017565E4B5D6DF2C29739B55466030E.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_roughness_Auto9.uasset'
+[2017.09.30-00.01.22:683][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_roughness_Auto9.uasset
+[2017.09.30-00.01.22:684][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Gold/gold-scuffed_metallic] ([1] browsable assets)...
+[2017.09.30-00.01.22:693][290]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Gold/gold-scuffed_metallic.gold-scuffed_metallic]
+[2017.09.30-00.01.22:693][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Gold/gold-scuffed_metallic]
+[2017.09.30-00.01.22:704][290]LogSavePackage: Save=8.93ms
+[2017.09.30-00.01.22:704][290]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_metallic_Auto941DF06F54F93EBFDF097FDB2B9FC8751.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_metallic_Auto9.uasset'
+[2017.09.30-00.01.22:705][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_metallic_Auto9.uasset
+[2017.09.30-00.01.22:706][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Gold/gold-scuffed_basecolor-boosted] ([1] browsable assets)...
+[2017.09.30-00.01.22:714][290]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Gold/gold-scuffed_basecolor-boosted.gold-scuffed_basecolor-boosted]
+[2017.09.30-00.01.22:714][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Gold/gold-scuffed_basecolor-boosted]
+[2017.09.30-00.01.22:729][290]LogSavePackage: Save=12.20ms
+[2017.09.30-00.01.22:729][290]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_basecolor-boosted_Auto9AF868E3F43523B825D5EDC9B63C83FBC.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_basecolor-boosted_Auto9.uasset'
+[2017.09.30-00.01.22:731][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_basecolor-boosted_Auto9.uasset
+[2017.09.30-00.01.22:732][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Gold/gold-scuffed_basecolor] ([1] browsable assets)...
+[2017.09.30-00.01.22:740][290]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Gold/gold-scuffed_basecolor.gold-scuffed_basecolor]
+[2017.09.30-00.01.22:740][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Gold/gold-scuffed_basecolor]
+[2017.09.30-00.01.22:755][290]LogSavePackage: Save=12.64ms
+[2017.09.30-00.01.22:755][290]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_basecolor_Auto99CAA88FB4AE62E0587C31BA61D8355BF.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_basecolor_Auto9.uasset'
+[2017.09.30-00.01.22:757][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_basecolor_Auto9.uasset
+[2017.09.30-00.01.22:757][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Gold/gold-scuffed_normal] ([1] browsable assets)...
+[2017.09.30-00.01.22:765][290]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Gold/gold-scuffed_normal.gold-scuffed_normal]
+[2017.09.30-00.01.22:765][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Gold/gold-scuffed_normal]
+[2017.09.30-00.01.22:783][290]LogSavePackage: Save=12.67ms
+[2017.09.30-00.01.22:783][290]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_normal_Auto9C9E2BE1040A429D1710979AC18AA1AE7.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_normal_Auto9.uasset'
+[2017.09.30-00.01.22:784][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Gold/gold-scuffed_normal_Auto9.uasset
+[2017.09.30-00.01.22:784][290]LogFileHelpers: Auto-saving content packages took 0.131
+[2017.09.30-00.01.44:241][565]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2017.09.30-00.01.44:245][565]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.01.44:336][565]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.01.46:285][664]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.09.30-00.01.46:285][664]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.30-00.01.46:285][664]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.30-00.02.02:576][568]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.02.02:587][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.30-00.02.02:618][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.30-00.02.02:634][568]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.02.02:652][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.30-00.02.02:686][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.30-00.02.02:695][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.30-00.02.02:717][568]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.02.02:737][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.09.30-00.02.02:774][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.30-00.02.02:781][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.30-00.02.02:787][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.09.30-00.02.02:806][568]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.02.02:825][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.09.30-00.02.02:859][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.30-00.02.02:866][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.30-00.02.02:874][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.09.30-00.02.02:881][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.09.30-00.02.02:900][568]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.02.02:917][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.09.30-00.02.02:952][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.30-00.02.02:959][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.30-00.02.02:968][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.09.30-00.02.02:975][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.09.30-00.02.02:981][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.09.30-00.02.04:161][623]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.09.30-00.02.04:161][623]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.30-00.02.04:161][623]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.30-00.03.51:346][459]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.03.51:361][459]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.09.30-00.03.52:840][532]MaterialEditorStats: Base pass shader: 84 instructions
+[2017.09.30-00.03.52:840][532]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.03.52:840][532]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.30-00.03.52:840][532]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.04.17:712][660]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.04.17:731][660]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.09.30-00.04.19:208][732]MaterialEditorStats: Base pass shader: 91 instructions
+[2017.09.30-00.04.19:209][732]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.04.19:209][732]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.30-00.04.19:209][732]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.04.31:751][175]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.04.31:766][175]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.30-00.04.32:894][225]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.09.30-00.04.32:894][225]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.04.32:894][225]MaterialEditorStats: Texture samplers: 4/16
+[2017.09.30-00.04.32:894][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.04.38:237][545]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.04.38:253][545]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.09.30-00.04.39:409][599]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.04.39:409][599]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.04.39:409][599]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.30-00.04.39:409][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.04.44:145][882]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.04.44:158][882]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.30-00.04.45:338][932]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.04.45:338][932]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.04.45:338][932]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.30-00.04.45:338][932]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.07.05:113][916]LogMaterialEditor: Saving and Compiling material ScuffedGold_PBR
+[2017.09.30-00.07.06:494][916]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.07.06:535][916]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.07.06:566][916]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.07.06:609][916]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ScuffedGold_PBR, compiling. 
+[2017.09.30-00.07.07:685][916]TextureStreamingBuild: Display: Compiling optional shaders took 1.081 seconds.
+[2017.09.30-00.07.09:259][916]LogSavePackage: Save=17.93ms
+[2017.09.30-00.07.09:259][916]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ScuffedGold_PBRD418BF464D5BEB108DC0FD8154A04378.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Gold/ScuffedGold_PBR.uasset'
+[2017.09.30-00.07.09:262][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Gold/ScuffedGold_PBR.uasset
+[2017.09.30-00.07.09:272][916]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.07.09:272][916]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.07.09:273][916]MaterialEditorStats: Texture samplers: 6/16
+[2017.09.30-00.07.09:273][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.07.25:226][861]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.09.30-00.07.31:839][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.30-00.07.37:036][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.30-00.07.39:113][685]Cmd: DELETE
+[2017.09.30-00.07.39:113][685]Cmd: ACTOR DELETE
+[2017.09.30-00.07.39:114][685]LogEditorActor: Deleted Actor: Brush
+[2017.09.30-00.07.39:139][685]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2017.09.30-00.07.46:801][123]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.09.30-00.07.48:026][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.30-00.07.49:923][307]Cmd: DELETE
+[2017.09.30-00.07.49:923][307]Cmd: ACTOR DELETE
+[2017.09.30-00.07.49:924][307]LogEditorActor: Deleted Actor: Brush
+[2017.09.30-00.07.49:947][307]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.09.30-00.07.55:383][631]LogActorFactory: Actor Factory created Sphere
+[2017.09.30-00.07.55:862][659]LogActorFactory: Actor Factory created Sphere
+[2017.09.30-00.08.11:643][604]MapCheck: New page: Map Check
+[2017.09.30-00.08.11:656][604]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.30-00.08.11:687][604]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.30-00.08.11:867][604]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.30-00.08.11:874][604]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.30-00.08.11:880][604]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2017.09.30-00.08.11:886][604]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ScuffedGold_PBR, compiling. 
+[2017.09.30-00.08.12:350][604]TextureStreamingBuild: Display: Compiling optional shaders took 0.517 seconds.
+[2017.09.30-00.08.12:361][604]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2017.09.30-00.08.12:366][604]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2017.09.30-00.08.12:380][604]LightingResults: New page: Lighting Build - Sep 29, 2017, 4:08:12 PM
+[2017.09.30-00.08.12:392][604]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.30-00.08.12:402][604]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.30-00.08.12:402][604]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.30-00.08.12:403][604]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.30-00.08.12:403][604]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23400
+[2017.09.30-00.08.16:919][604]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.30-00.08.16:919][604]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.30-00.08.16:919][604]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.30-00.08.16:919][604]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.30-00.08.16:919][604]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.30-00.08.16:919][604]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.30-00.08.16:987][604]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.30-00.08.16:987][604]MapCheck: New page: Lobby - Sep 29, 2017, 4:08:16 PM
+[2017.09.30-00.08.16:987][604]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.09.30-00.08.18:669][604]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1,681.951ms to complete.
+[2017.09.30-00.08.18:691][604]LogEditorBuildUtils: Build time 0:07
+[2017.09.30-00.08.18:841][605]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ScuffedGold_PBR, compiling. 
+[2017.09.30-00.08.18:851][605]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ScuffedGold_PBR, compiling. 
+[2017.09.30-00.08.20:938][675]Job is a success!
+[2017.09.30-00.08.20:995][676]LogMaterial: Warning: Material /Game/Assets/Materials/Gold/ScuffedGold_PBR.ScuffedGold_PBR needed to have new flag set bUsedWithStaticLighting !
+[2017.09.30-00.08.20:999][676]LogMaterial: Missing cached shader map for material ScuffedGold_PBR, compiling. 
+[2017.09.30-00.08.21:077][676]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.09.30-00.08.21:077][676]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.09.30-00.08.21:077][676]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.09.30-00.08.21:077][676]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.09.30-00.08.21:077][676]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2017.09.30-00.08.21:077][676]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X128)
+[2017.09.30-00.08.21:114][676]Lightmass on DESKTOP-SIJTC7B: 1.07 sec total, 168 ms importing, 42 ms setup, 346 ms photons, 474 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 3.16 sec total, 453 ms processing.
+[2017.09.30-00.08.21:125][676]LogStaticLightingSystem: Illumination: 8.72 sec (23 ms encoding lightmaps, 21 ms encoding shadowmaps)
+[2017.09.30-00.08.21:125][676]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.30-00.08.21:125][676]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.30-00.08.21:926][676]DumpUnbuiltLightIteractions
+[2017.09.30-00.08.21:926][676]Lights with unbuilt interactions: 0
+[2017.09.30-00.08.21:926][676]
+[2017.09.30-00.08.21:926][676]Primitives with unbuilt interactions: 0
+[2017.09.30-00.08.21:943][677]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.30-00.08.21:943][677]MapCheck: New page: Lobby - Sep 29, 2017, 4:08:21 PM
+[2017.09.30-00.08.22:034][677]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 90.942ms to complete.
+[2017.09.30-00.08.36:206][526]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.30-00.08.36:224][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.08.36:224][526]PIE: New page: PIE session: Lobby (Sep 29, 2017, 4:08:36 PM)
+[2017.09.30-00.08.36:225][526]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.09.30-00.08.36:229][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003325s)
+[2017.09.30-00.08.36:229][526]LogAIModule: Creating AISystem for world Lobby
+[2017.09.30-00.08.36:230][526]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2017.09.30-00.08.36:230][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.004551s)
+[2017.09.30-00.08.36:249][526]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.30-00.08.36:255][526]LogInit: FAudioDevice initialized.
+[2017.09.30-00.08.36:301][526]LogLoad: Game class is 'LobbyGM_C'
+[2017.09.30-00.08.36:303][526]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2017.09.29-20.08.36
+[2017.09.30-00.08.36:304][526]LogWorld: Bringing up level for play took: 0.001234
+[2017.09.30-00.08.36:312][526]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 1.007
+[2017.09.30-00.09.15:282][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.09.30-00.09.22:638][294]MapCheck: New page: Map Check
+[2017.09.30-00.09.22:652][294]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.30-00.09.22:652][294]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.30-00.09.22:747][294]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.30-00.09.22:754][294]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.30-00.09.22:760][294]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_5, compiling. 
+[2017.09.30-00.09.22:769][294]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ScuffedGold_PBR, compiling. 
+[2017.09.30-00.09.23:297][294]TextureStreamingBuild: Display: Compiling optional shaders took 0.555 seconds.
+[2017.09.30-00.09.23:302][294]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2017.09.30-00.09.23:307][294]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2017.09.30-00.09.23:323][294]LightingResults: New page: Lighting Build - Sep 29, 2017, 4:09:23 PM
+[2017.09.30-00.09.23:330][294]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.30-00.09.23:333][294]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.30-00.09.23:333][294]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.30-00.09.23:334][294]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.30-00.09.23:334][294]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23400
+[2017.09.30-00.09.27:843][294]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.30-00.09.27:844][294]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.30-00.09.27:844][294]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.30-00.09.27:844][294]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.30-00.09.27:844][294]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.30-00.09.27:844][294]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.30-00.09.27:900][294]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.30-00.09.27:900][294]MapCheck: New page: Lobby - Sep 29, 2017, 4:09:27 PM
+[2017.09.30-00.09.27:904][294]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.09.30-00.09.27:965][294]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 64.833ms to complete.
+[2017.09.30-00.09.27:987][294]LogEditorBuildUtils: Build time 0:05
+[2017.09.30-00.09.28:022][294]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ScuffedGold_PBR, compiling. 
+[2017.09.30-00.09.28:028][294]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ScuffedGold_PBR, compiling. 
+[2017.09.30-00.09.30:120][354]Job is a success!
+[2017.09.30-00.09.30:230][355]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.09.30-00.09.30:230][355]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.09.30-00.09.30:231][355]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.09.30-00.09.30:231][355]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.09.30-00.09.30:231][355]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2017.09.30-00.09.30:231][355]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X128)
+[2017.09.30-00.09.30:261][355]Lightmass on DESKTOP-SIJTC7B: 941 ms total, 131 ms importing, 23 ms setup, 323 ms photons, 449 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 2.98 sec total, 432 ms processing.
+[2017.09.30-00.09.30:270][355]LogStaticLightingSystem: Illumination: 6.92 sec (19 ms encoding lightmaps, 23 ms encoding shadowmaps)
+[2017.09.30-00.09.30:270][355]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.30-00.09.30:270][355]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.30-00.09.30:848][355]DumpUnbuiltLightIteractions
+[2017.09.30-00.09.30:848][355]Lights with unbuilt interactions: 0
+[2017.09.30-00.09.30:848][355]
+[2017.09.30-00.09.30:848][355]Primitives with unbuilt interactions: 0
+[2017.09.30-00.09.30:864][356]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.30-00.09.30:864][356]MapCheck: New page: Lobby - Sep 29, 2017, 4:09:30 PM
+[2017.09.30-00.09.30:930][356]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.55ms to complete.
+[2017.09.30-00.09.33:787][527]MapCheck: New page: Map Check
+[2017.09.30-00.09.33:801][527]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.30-00.09.33:801][527]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.30-00.09.33:896][527]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.30-00.09.33:903][527]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.30-00.09.33:908][527]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_6, compiling. 
+[2017.09.30-00.09.33:915][527]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ScuffedGold_PBR, compiling. 
+[2017.09.30-00.09.34:192][527]TextureStreamingBuild: Display: Compiling optional shaders took 0.301 seconds.
+[2017.09.30-00.09.34:195][527]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2017.09.30-00.09.34:205][527]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2017.09.30-00.09.34:219][527]LightingResults: New page: Lighting Build - Sep 29, 2017, 4:09:34 PM
+[2017.09.30-00.09.34:227][527]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.30-00.09.34:232][527]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.30-00.09.34:232][527]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.30-00.09.34:232][527]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.30-00.09.34:232][527]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23400
+[2017.09.30-00.09.38:742][527]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.30-00.09.38:742][527]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.30-00.09.38:742][527]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.30-00.09.38:742][527]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.30-00.09.38:742][527]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.30-00.09.38:742][527]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.30-00.09.38:798][527]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.30-00.09.38:798][527]MapCheck: New page: Lobby - Sep 29, 2017, 4:09:38 PM
+[2017.09.30-00.09.38:859][527]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.608ms to complete.
+[2017.09.30-00.09.38:881][527]LogEditorBuildUtils: Build time 0:05
+[2017.09.30-00.09.40:316][585]Job is a success!
+[2017.09.30-00.09.40:428][587]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.09.30-00.09.40:428][587]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.09.30-00.09.40:428][587]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.09.30-00.09.40:428][587]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.09.30-00.09.40:428][587]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2017.09.30-00.09.40:428][587]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X128)
+[2017.09.30-00.09.40:456][587]Lightmass on DESKTOP-SIJTC7B: 926 ms total, 125 ms importing, 26 ms setup, 324 ms photons, 435 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 2.89 sec total, 413 ms processing.
+[2017.09.30-00.09.40:461][587]LogStaticLightingSystem: Illumination: 6.22 sec (19 ms encoding lightmaps, 19 ms encoding shadowmaps)
+[2017.09.30-00.09.40:461][587]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.30-00.09.40:461][587]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.30-00.09.40:747][587]DumpUnbuiltLightIteractions
+[2017.09.30-00.09.40:747][587]Lights with unbuilt interactions: 0
+[2017.09.30-00.09.40:747][587]
+[2017.09.30-00.09.40:747][587]Primitives with unbuilt interactions: 0
+[2017.09.30-00.09.40:757][588]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.30-00.09.40:757][588]MapCheck: New page: Lobby - Sep 29, 2017, 4:09:40 PM
+[2017.09.30-00.09.40:820][588]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.742ms to complete.
+[2017.09.30-00.09.45:008][825]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.30-00.09.45:024][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.09.45:024][825]PIE: New page: PIE session: Lobby (Sep 29, 2017, 4:09:45 PM)
+[2017.09.30-00.09.45:025][825]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.09.30-00.09.45:028][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002914s)
+[2017.09.30-00.09.45:029][825]LogAIModule: Creating AISystem for world Lobby
+[2017.09.30-00.09.45:029][825]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2017.09.30-00.09.45:029][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.003923s)
+[2017.09.30-00.09.45:045][825]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.30-00.09.45:051][825]LogInit: FAudioDevice initialized.
+[2017.09.30-00.09.45:096][825]LogLoad: Game class is 'LobbyGM_C'
+[2017.09.30-00.09.45:098][825]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2017.09.29-20.09.45
+[2017.09.30-00.09.45:098][825]LogWorld: Bringing up level for play took: 0.001060
+[2017.09.30-00.09.45:103][825]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby -0.202
+[2017.09.30-00.10.00:414][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.09.30-00.10.01:384][791]Cmd: DELETE
+[2017.09.30-00.10.01:384][791]Cmd: ACTOR DELETE
+[2017.09.30-00.10.01:384][791]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.09.30-00.10.01:401][791]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.09.30-00.10.06:675][108]MapCheck: New page: Map Check
+[2017.09.30-00.10.06:687][108]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.30-00.10.06:687][108]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.30-00.10.06:783][108]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.30-00.10.06:790][108]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.30-00.10.06:795][108]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_7, compiling. 
+[2017.09.30-00.10.07:279][108]TextureStreamingBuild: Display: Compiling optional shaders took 0.501 seconds.
+[2017.09.30-00.10.07:282][108]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2017.09.30-00.10.07:287][108]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2017.09.30-00.10.07:303][108]LightingResults: New page: Lighting Build - Sep 29, 2017, 4:10:07 PM
+[2017.09.30-00.10.07:311][108]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.30-00.10.07:315][108]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.30-00.10.07:315][108]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.30-00.10.07:316][108]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.30-00.10.07:316][108]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23400
+[2017.09.30-00.10.11:829][108]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.30-00.10.11:830][108]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.30-00.10.11:830][108]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.30-00.10.11:830][108]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.30-00.10.11:830][108]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.30-00.10.11:830][108]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.30-00.10.11:890][108]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.30-00.10.11:890][108]MapCheck: New page: Lobby - Sep 29, 2017, 4:10:11 PM
+[2017.09.30-00.10.11:953][108]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.924ms to complete.
+[2017.09.30-00.10.11:976][108]LogEditorBuildUtils: Build time 0:05
+[2017.09.30-00.10.13:330][163]Job is a success!
+[2017.09.30-00.10.13:437][164]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.09.30-00.10.13:437][164]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.09.30-00.10.13:438][164]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.09.30-00.10.13:438][164]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.09.30-00.10.13:438][164]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2017.09.30-00.10.13:438][164]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 128X128)
+[2017.09.30-00.10.13:455][164]Lightmass on DESKTOP-SIJTC7B: 878 ms total, 118 ms importing, 23 ms setup, 311 ms photons, 414 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.74 sec total, 307 ms processing.
+[2017.09.30-00.10.13:481][164]LogStaticLightingSystem: Illumination: 6.15 sec (10 ms encoding lightmaps, 35 ms encoding shadowmaps)
+[2017.09.30-00.10.13:481][164]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.30-00.10.13:481][164]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.30-00.10.13:830][164]DumpUnbuiltLightIteractions
+[2017.09.30-00.10.13:830][164]Lights with unbuilt interactions: 0
+[2017.09.30-00.10.13:830][164]
+[2017.09.30-00.10.13:830][164]Primitives with unbuilt interactions: 0
+[2017.09.30-00.10.13:838][165]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.30-00.10.13:839][165]MapCheck: New page: Lobby - Sep 29, 2017, 4:10:13 PM
+[2017.09.30-00.10.13:903][165]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.556ms to complete.
+[2017.09.30-00.12.13:500][647]LogSavePackage: Save=22.98ms
+[2017.09.30-00.12.13:500][647]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ScuffedGold_PBRF50048F345FA137537182C8FF4C53243.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/ScuffedGold_PBR.uasset'
+[2017.09.30-00.12.13:505][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/ScuffedGold_PBR.uasset
+[2017.09.30-00.12.13:730][647]LogSavePackage: Save=206.85ms
+[2017.09.30-00.12.13:730][647]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_roughnessAD3ECB97456B19D6C16C42ABEB156266.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_roughness.uasset'
+[2017.09.30-00.12.13:733][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_roughness.uasset
+[2017.09.30-00.12.13:890][647]LogSavePackage: Save=140.77ms
+[2017.09.30-00.12.13:890][647]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_normal89C70BA24D6C0697BA99A9A03797AB9E.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_normal.uasset'
+[2017.09.30-00.12.13:894][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_normal.uasset
+[2017.09.30-00.12.13:953][647]LogSavePackage: Save=42.30ms
+[2017.09.30-00.12.13:953][647]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_metallic9E45DBA84EE681085CB120AA14D82838.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_metallic.uasset'
+[2017.09.30-00.12.13:956][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_metallic.uasset
+[2017.09.30-00.12.14:124][647]LogSavePackage: Save=146.12ms
+[2017.09.30-00.12.14:124][647]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_basecolor-boosted152CD3554640EF7F6E724AAE1F86FF0A.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_basecolor-boosted.uasset'
+[2017.09.30-00.12.14:128][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_basecolor-boosted.uasset
+[2017.09.30-00.12.14:292][647]LogSavePackage: Save=147.30ms
+[2017.09.30-00.12.14:292][647]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/gold-scuffed_basecolorBB33B56B45ACF28AD42887AD81D55832.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_basecolor.uasset'
+[2017.09.30-00.12.14:296][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Gold/gold-scuffed_basecolor.uasset
+[2017.09.30-00.13.41:172][155]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/rustediron2-Unreal-Engine/rustediron2-Unreal-Engine/rustediron2_basecolor.png)
+[2017.09.30-00.13.41:658][155]LogTexture: Display: Building textures: rustediron2_basecolor (AutoDXT, 2048X2048)
+[2017.09.30-00.13.44:059][155]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/rustediron2-Unreal-Engine/rustediron2-Unreal-Engine/rustediron2_metallic.png)
+[2017.09.30-00.13.44:129][155]LogTexture: Display: Building textures: rustediron2_metallic (AutoDXT, 2048X2048)
+[2017.09.30-00.13.45:707][155]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/rustediron2-Unreal-Engine/rustediron2-Unreal-Engine/rustediron2_normal.png)
+[2017.09.30-00.13.45:957][155]LogTexture: Display: Building textures: rustediron2_normal (BC5, 2048X2048)
+[2017.09.30-00.13.46:342][155]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/rustediron2-Unreal-Engine/rustediron2-Unreal-Engine/rustediron2_roughness.png)
+[2017.09.30-00.13.46:416][155]LogTexture: Display: Building textures: rustediron2_roughness (AutoDXT, 2048X2048)
+[2017.09.30-00.13.48:005][156]LogSavePackage: Save=36.10ms
+[2017.09.30-00.13.48:005][156]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Lobby_Auto0EB9B51EA4787F83A6449CAA147C9E8EF.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/Lobby_Auto0.umap'
+[2017.09.30-00.13.48:007][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/Lobby_Auto0.umap
+[2017.09.30-00.13.48:009][156]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.079
+[2017.09.30-00.13.48:009][156]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.079
+[2017.09.30-00.13.48:013][156]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Lobby_BuiltData] ([1] browsable assets)...
+[2017.09.30-00.13.48:013][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Lobby_BuiltData]
+[2017.09.30-00.13.48:035][156]LogSavePackage: Save=11.10ms
+[2017.09.30-00.13.48:035][156]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Lobby_BuiltData_Auto04905FF43433F10FC41E89C867457FC77.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/Lobby_BuiltData_Auto0.uasset'
+[2017.09.30-00.13.48:036][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/Lobby_BuiltData_Auto0.uasset
+[2017.09.30-00.13.48:040][156]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Metals/Iron/rustediron2_normal] ([1] browsable assets)...
+[2017.09.30-00.13.48:050][156]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Metals/Iron/rustediron2_normal.rustediron2_normal]
+[2017.09.30-00.13.48:050][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Metals/Iron/rustediron2_normal]
+[2017.09.30-00.13.48:066][156]LogSavePackage: Save=13.93ms
+[2017.09.30-00.13.48:066][156]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/rustediron2_normal_Auto032964F8942DF9E6AC67420BD54567A20.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Metals/Iron/rustediron2_normal_Auto0.uasset'
+[2017.09.30-00.13.48:067][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Metals/Iron/rustediron2_normal_Auto0.uasset
+[2017.09.30-00.13.48:068][156]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Metals/Iron/rustediron2_metallic] ([1] browsable assets)...
+[2017.09.30-00.13.48:076][156]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Metals/Iron/rustediron2_metallic.rustediron2_metallic]
+[2017.09.30-00.13.48:076][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Metals/Iron/rustediron2_metallic]
+[2017.09.30-00.13.48:094][156]LogSavePackage: Save=14.57ms
+[2017.09.30-00.13.48:094][156]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/rustediron2_metallic_Auto0538472094DEBB7221B4FD6A0A992E0F6.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Metals/Iron/rustediron2_metallic_Auto0.uasset'
+[2017.09.30-00.13.48:096][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Metals/Iron/rustediron2_metallic_Auto0.uasset
+[2017.09.30-00.13.48:097][156]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Metals/Iron/rustediron2_basecolor] ([1] browsable assets)...
+[2017.09.30-00.13.48:105][156]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Metals/Iron/rustediron2_basecolor.rustediron2_basecolor]
+[2017.09.30-00.13.48:105][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Metals/Iron/rustediron2_basecolor]
+[2017.09.30-00.13.48:174][156]LogSavePackage: Save=66.98ms
+[2017.09.30-00.13.48:174][156]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/rustediron2_basecolor_Auto079FF28664E87290E4028B4861311C2AA.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Metals/Iron/rustediron2_basecolor_Auto0.uasset'
+[2017.09.30-00.13.48:176][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Metals/Iron/rustediron2_basecolor_Auto0.uasset
+[2017.09.30-00.13.48:177][156]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Metals/Iron/rustediron2_roughness] ([1] browsable assets)...
+[2017.09.30-00.13.48:186][156]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Metals/Iron/rustediron2_roughness.rustediron2_roughness]
+[2017.09.30-00.13.48:186][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Metals/Iron/rustediron2_roughness]
+[2017.09.30-00.13.48:202][156]LogSavePackage: Save=13.76ms
+[2017.09.30-00.13.48:202][156]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/rustediron2_roughness_Auto06E90AFF54213A96601FB2390CD2B205A.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Metals/Iron/rustediron2_roughness_Auto0.uasset'
+[2017.09.30-00.13.48:204][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Metals/Iron/rustediron2_roughness_Auto0.uasset
+[2017.09.30-00.13.48:204][156]LogFileHelpers: Auto-saving content packages took 0.193
+[2017.09.30-00.14.07:703][314]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.07:775][314]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.07:790][314]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.09:604][396]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.09.30-00.14.09:604][396]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.30-00.14.09:604][396]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.30-00.14.13:004][595]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.13:016][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.09.30-00.14.13:046][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.09.30-00.14.13:064][595]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.13:084][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.09.30-00.14.13:123][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.09.30-00.14.13:131][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.09.30-00.14.13:155][595]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.13:177][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.09.30-00.14.13:216][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.09.30-00.14.13:224][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.09.30-00.14.13:231][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.09.30-00.14.13:250][595]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.13:267][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.09.30-00.14.13:303][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.09.30-00.14.13:313][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.09.30-00.14.13:322][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.09.30-00.14.13:329][595]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.09.30-00.14.15:066][674]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.09.30-00.14.15:066][674]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.30-00.14.15:066][674]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.30-00.14.26:486][341]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.26:504][341]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2017.09.30-00.14.27:997][406]MaterialEditorStats: Base pass shader: 84 instructions
+[2017.09.30-00.14.27:997][406]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.14.27:997][406]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.30-00.14.27:997][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.14.43:643][675]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.43:661][675]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.09.30-00.14.45:922][779]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.45:939][779]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.09.30-00.14.48:526][906]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.14.48:542][906]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.09.30-00.14.50:018][968]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.14.50:018][968]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.14.50:018][968]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.30-00.14.50:018][968]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.15.21:294][455]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.23:149][555]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.25:247][669]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.25:262][669]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.09.30-00.15.27:605][795]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.27:624][795]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.09.30-00.15.28:802][857]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.15.28:802][857]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.15.28:802][857]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.30-00.15.28:802][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.15.40:718][324]LogEditorTransaction: Undo Create Pin Link
+[2017.09.30-00.15.40:723][324]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.40:741][324]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.40:758][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.09.30-00.15.41:202][339]LogEditorTransaction: Undo Create Pin Link
+[2017.09.30-00.15.41:207][339]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.41:229][339]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.41:254][339]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.09.30-00.15.41:768][362]LogEditorTransaction: Undo Break Pin Links
+[2017.09.30-00.15.41:777][362]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.41:800][362]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.42:248][381]LogEditorTransaction: Undo Break Pin Links
+[2017.09.30-00.15.42:255][381]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.42:277][381]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.15.43:571][445]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.15.43:571][445]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.15.43:571][445]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.30-00.15.43:571][445]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.16.45:126][589]LogMaterialEditor: Saving and Compiling material RustedIron_PBR
+[2017.09.30-00.16.45:653][589]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.16.45:697][589]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.16.45:729][589]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.16.45:781][589]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RustedIron_PBR, compiling. 
+[2017.09.30-00.16.47:063][589]TextureStreamingBuild: Display: Compiling optional shaders took 1.288 seconds.
+[2017.09.30-00.16.48:837][589]LogSavePackage: Save=20.27ms
+[2017.09.30-00.16.48:837][589]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/RustedIron_PBR2EC355F1468C44F940BC5ABCE4BFB94E.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Iron/RustedIron_PBR.uasset'
+[2017.09.30-00.16.48:840][589]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/Iron/RustedIron_PBR.uasset
+[2017.09.30-00.16.48:851][589]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.16.48:851][589]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.16.48:851][589]MaterialEditorStats: Texture samplers: 6/16
+[2017.09.30-00.16.48:851][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.17.01:306][324]LogActorFactory: Actor Factory created Sphere
+[2017.09.30-00.17.01:992][365]LogActorFactory: Actor Factory created Sphere
+[2017.09.30-00.17.06:693][645]MapCheck: New page: Map Check
+[2017.09.30-00.17.06:712][645]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.30-00.17.06:712][645]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.30-00.17.06:848][645]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.30-00.17.06:856][645]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.30-00.17.06:863][645]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_8, compiling. 
+[2017.09.30-00.17.06:869][645]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RustedIron_PBR, compiling. 
+[2017.09.30-00.17.07:216][645]TextureStreamingBuild: Display: Compiling optional shaders took 0.403 seconds.
+[2017.09.30-00.17.07:226][645]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2017.09.30-00.17.07:242][645]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2017.09.30-00.17.07:260][645]LightingResults: New page: Lighting Build - Sep 29, 2017, 4:17:07 PM
+[2017.09.30-00.17.07:269][645]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.30-00.17.07:273][645]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.30-00.17.07:273][645]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.30-00.17.07:274][645]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.30-00.17.07:274][645]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23400
+[2017.09.30-00.17.11:786][645]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.30-00.17.11:786][645]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.30-00.17.11:786][645]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.30-00.17.11:786][645]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.30-00.17.11:786][645]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.30-00.17.11:786][645]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.30-00.17.11:850][645]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.30-00.17.11:851][645]MapCheck: New page: Lobby - Sep 29, 2017, 4:17:11 PM
+[2017.09.30-00.17.11:851][645]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.09.30-00.17.11:916][645]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 65.027ms to complete.
+[2017.09.30-00.17.11:938][645]LogEditorBuildUtils: Build time 0:05
+[2017.09.30-00.17.11:981][645]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RustedIron_PBR, compiling. 
+[2017.09.30-00.17.11:987][645]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RustedIron_PBR, compiling. 
+[2017.09.30-00.17.14:003][708]Job is a success!
+[2017.09.30-00.17.14:056][709]LogMaterial: Warning: Material /Game/Assets/Materials/Metals/Iron/RustedIron_PBR.RustedIron_PBR needed to have new flag set bUsedWithStaticLighting !
+[2017.09.30-00.17.14:063][709]LogMaterial: Missing cached shader map for material RustedIron_PBR, compiling. 
+[2017.09.30-00.17.14:155][709]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.09.30-00.17.14:155][709]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.09.30-00.17.14:155][709]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.09.30-00.17.14:155][709]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.09.30-00.17.14:155][709]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2017.09.30-00.17.14:155][709]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X128)
+[2017.09.30-00.17.14:202][709]Lightmass on DESKTOP-SIJTC7B: 1.02 sec total, 141 ms importing, 26 ms setup, 342 ms photons, 492 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 3.28 sec total, 474 ms processing.
+[2017.09.30-00.17.14:212][709]LogStaticLightingSystem: Illumination: 6.92 sec (18 ms encoding lightmaps, 34 ms encoding shadowmaps)
+[2017.09.30-00.17.14:213][709]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.30-00.17.14:213][709]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.30-00.17.14:792][709]DumpUnbuiltLightIteractions
+[2017.09.30-00.17.14:792][709]Lights with unbuilt interactions: 0
+[2017.09.30-00.17.14:792][709]
+[2017.09.30-00.17.14:792][709]Primitives with unbuilt interactions: 0
+[2017.09.30-00.17.14:812][710]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.30-00.17.14:813][710]MapCheck: New page: Lobby - Sep 29, 2017, 4:17:14 PM
+[2017.09.30-00.17.14:930][710]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.207ms to complete.
+[2017.09.30-00.17.19:528][978]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.30-00.17.19:545][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.17.19:545][978]PIE: New page: PIE session: Lobby (Sep 29, 2017, 4:17:19 PM)
+[2017.09.30-00.17.19:546][978]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.09.30-00.17.19:549][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003175s)
+[2017.09.30-00.17.19:550][978]LogAIModule: Creating AISystem for world Lobby
+[2017.09.30-00.17.19:550][978]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2017.09.30-00.17.19:550][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.004434s)
+[2017.09.30-00.17.19:569][978]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.30-00.17.19:576][978]LogInit: FAudioDevice initialized.
+[2017.09.30-00.17.19:627][978]LogLoad: Game class is 'LobbyGM_C'
+[2017.09.30-00.17.19:629][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2017.09.29-20.17.19
+[2017.09.30-00.17.19:630][978]LogWorld: Bringing up level for play took: 0.001552
+[2017.09.30-00.17.19:635][978]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.331
+[2017.09.30-00.17.56:499][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.09.30-00.18.03:510][598]MapCheck: New page: Map Check
+[2017.09.30-00.18.03:528][598]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.30-00.18.03:528][598]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.30-00.18.03:634][598]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.30-00.18.03:643][598]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.30-00.18.03:648][598]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_9, compiling. 
+[2017.09.30-00.18.03:656][598]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RustedIron_PBR, compiling. 
+[2017.09.30-00.18.04:316][598]TextureStreamingBuild: Display: Compiling optional shaders took 0.687 seconds.
+[2017.09.30-00.18.04:322][598]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2017.09.30-00.18.04:329][598]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2017.09.30-00.18.04:345][598]LightingResults: New page: Lighting Build - Sep 29, 2017, 4:18:04 PM
+[2017.09.30-00.18.04:352][598]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.30-00.18.04:356][598]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.30-00.18.04:356][598]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.30-00.18.04:357][598]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.30-00.18.04:357][598]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23400
+[2017.09.30-00.18.08:870][598]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.30-00.18.08:870][598]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.30-00.18.08:870][598]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.30-00.18.08:870][598]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.30-00.18.08:870][598]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.30-00.18.08:870][598]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.30-00.18.08:932][598]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.30-00.18.08:932][598]MapCheck: New page: Lobby - Sep 29, 2017, 4:18:08 PM
+[2017.09.30-00.18.08:933][598]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.09.30-00.18.08:998][598]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 65.622ms to complete.
+[2017.09.30-00.18.09:020][598]LogEditorBuildUtils: Build time 0:05
+[2017.09.30-00.18.09:057][598]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RustedIron_PBR, compiling. 
+[2017.09.30-00.18.09:065][598]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RustedIron_PBR, compiling. 
+[2017.09.30-00.18.11:352][662]Job is a success!
+[2017.09.30-00.18.11:476][663]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.09.30-00.18.11:476][663]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.09.30-00.18.11:476][663]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.09.30-00.18.11:476][663]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.09.30-00.18.11:476][663]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X128)
+[2017.09.30-00.18.11:476][663]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 32X32)
+[2017.09.30-00.18.11:515][663]Lightmass on DESKTOP-SIJTC7B: 1.01 sec total, 135 ms importing, 25 ms setup, 381 ms photons, 457 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 3.04 sec total, 576 ms processing.
+[2017.09.30-00.18.11:523][663]LogStaticLightingSystem: Illumination: 7.15 sec (26 ms encoding lightmaps, 26 ms encoding shadowmaps)
+[2017.09.30-00.18.11:523][663]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.30-00.18.11:523][663]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.30-00.18.11:878][663]DumpUnbuiltLightIteractions
+[2017.09.30-00.18.11:878][663]Lights with unbuilt interactions: 0
+[2017.09.30-00.18.11:878][663]
+[2017.09.30-00.18.11:878][663]Primitives with unbuilt interactions: 0
+[2017.09.30-00.18.11:896][664]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.30-00.18.11:896][664]MapCheck: New page: Lobby - Sep 29, 2017, 4:18:11 PM
+[2017.09.30-00.18.11:966][664]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.433ms to complete.
+[2017.09.30-00.18.17:824][ 15]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.30-00.18.17:841][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.18.17:841][ 15]PIE: New page: PIE session: Lobby (Sep 29, 2017, 4:18:17 PM)
+[2017.09.30-00.18.17:842][ 15]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.09.30-00.18.17:845][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003034s)
+[2017.09.30-00.18.17:846][ 15]LogAIModule: Creating AISystem for world Lobby
+[2017.09.30-00.18.17:846][ 15]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2017.09.30-00.18.17:846][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.004057s)
+[2017.09.30-00.18.17:864][ 15]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.30-00.18.17:871][ 15]LogInit: FAudioDevice initialized.
+[2017.09.30-00.18.17:923][ 15]LogLoad: Game class is 'LobbyGM_C'
+[2017.09.30-00.18.17:926][ 15]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2017.09.29-20.18.17
+[2017.09.30-00.18.17:927][ 15]LogWorld: Bringing up level for play took: 0.002420
+[2017.09.30-00.18.17:932][ 15]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.627
+[2017.09.30-00.19.02:323][659]LogSavePackage: Save=20.82ms
+[2017.09.30-00.19.02:323][659]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/RustedIron_PBR9D6B1A814B3206C548254380090760FD.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/RustedIron_PBR.uasset'
+[2017.09.30-00.19.02:339][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/RustedIron_PBR.uasset
+[2017.09.30-00.19.03:002][659]LogSavePackage: Save=643.12ms
+[2017.09.30-00.19.03:002][659]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/rustediron2_normal0E7CEA6247B7C042E3E41EB553F6F449.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/rustediron2_normal.uasset'
+[2017.09.30-00.19.03:006][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/rustediron2_normal.uasset
+[2017.09.30-00.19.03:323][659]LogSavePackage: Save=301.19ms
+[2017.09.30-00.19.03:323][659]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/rustediron2_metallicECAE0D7545E70FBAFF42D9AC6D75A6D2.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/rustediron2_metallic.uasset'
+[2017.09.30-00.19.03:327][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/rustediron2_metallic.uasset
+[2017.09.30-00.19.04:452][659]LogSavePackage: Save=1108.14ms
+[2017.09.30-00.19.04:452][659]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/rustediron2_basecolorE7A879CA40ADA3D1F87B4DA4B23282A4.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/rustediron2_basecolor.uasset'
+[2017.09.30-00.19.04:456][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/rustediron2_basecolor.uasset
+[2017.09.30-00.19.04:791][659]LogSavePackage: Save=317.33ms
+[2017.09.30-00.19.04:791][659]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/rustediron2_roughness9CC5BA934ED11AB06F1C40AB3F44C485.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/rustediron2_roughness.uasset'
+[2017.09.30-00.19.04:797][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Metals/RustedIron/rustediron2_roughness.uasset
+[2017.09.30-00.19.08:095][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.09.30-00.19.09:049][886]Cmd: DELETE
+[2017.09.30-00.19.09:049][886]Cmd: ACTOR DELETE
+[2017.09.30-00.19.09:050][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.09.30-00.19.09:068][886]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.09.30-00.19.10:627][980]MapCheck: New page: Map Check
+[2017.09.30-00.19.10:645][980]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.30-00.19.10:645][980]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.30-00.19.10:751][980]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.30-00.19.10:760][980]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.30-00.19.10:767][980]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_10, compiling. 
+[2017.09.30-00.19.11:365][980]TextureStreamingBuild: Display: Compiling optional shaders took 0.619 seconds.
+[2017.09.30-00.19.11:369][980]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2017.09.30-00.19.11:381][980]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2017.09.30-00.19.11:399][980]LightingResults: New page: Lighting Build - Sep 29, 2017, 4:19:11 PM
+[2017.09.30-00.19.11:410][980]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.30-00.19.11:415][980]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.30-00.19.11:415][980]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.30-00.19.11:416][980]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.30-00.19.11:416][980]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23400
+[2017.09.30-00.19.15:928][980]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.30-00.19.15:928][980]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.30-00.19.15:928][980]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.30-00.19.15:928][980]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.30-00.19.15:928][980]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.30-00.19.15:928][980]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.30-00.19.15:994][980]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.30-00.19.15:994][980]MapCheck: New page: Lobby - Sep 29, 2017, 4:19:15 PM
+[2017.09.30-00.19.16:064][980]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.71ms to complete.
+[2017.09.30-00.19.16:087][980]LogEditorBuildUtils: Build time 0:05
+[2017.09.30-00.19.17:591][ 39]Job is a success!
+[2017.09.30-00.19.17:712][ 40]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.09.30-00.19.17:712][ 40]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.09.30-00.19.17:712][ 40]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.09.30-00.19.17:712][ 40]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.09.30-00.19.17:712][ 40]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 128X128)
+[2017.09.30-00.19.17:713][ 40]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 32X32)
+[2017.09.30-00.19.17:732][ 40]Lightmass on DESKTOP-SIJTC7B: 916 ms total, 138 ms importing, 25 ms setup, 314 ms photons, 427 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.83 sec total, 323 ms processing.
+[2017.09.30-00.19.17:767][ 40]LogStaticLightingSystem: Illumination: 6.34 sec (13 ms encoding lightmaps, 39 ms encoding shadowmaps)
+[2017.09.30-00.19.17:767][ 40]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.30-00.19.17:767][ 40]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.30-00.19.17:932][ 40]DumpUnbuiltLightIteractions
+[2017.09.30-00.19.17:932][ 40]Lights with unbuilt interactions: 0
+[2017.09.30-00.19.17:932][ 40]
+[2017.09.30-00.19.17:932][ 40]Primitives with unbuilt interactions: 0
+[2017.09.30-00.19.17:943][ 41]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.30-00.19.17:944][ 41]MapCheck: New page: Lobby - Sep 29, 2017, 4:19:17 PM
+[2017.09.30-00.19.18:022][ 41]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.785ms to complete.
+[2017.09.30-00.22.21:960][610]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/synth-rubber-unreal-engine/synth-rubber-albedo.png)
+[2017.09.30-00.22.22:211][610]LogTexture: Display: Building textures: synth-rubber-albedo (AutoDXT, 2048X2048)
+[2017.09.30-00.22.24:600][610]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/synth-rubber-unreal-engine/synth-rubber-metalness.png)
+[2017.09.30-00.22.24:745][610]LogTexture: Display: Building textures: synth-rubber-metalness (AutoDXT, 2048X2048)
+[2017.09.30-00.22.25:068][610]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/synth-rubber-unreal-engine/synth-rubber-normal.png)
+[2017.09.30-00.22.25:387][610]LogTexture: Display: Building textures: synth-rubber-normal (BC5, 2048X2048)
+[2017.09.30-00.22.25:804][610]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/synth-rubber-unreal-engine/synth-rubber-roughness.png)
+[2017.09.30-00.22.26:016][610]LogTexture: Display: Building textures: synth-rubber-roughness (AutoDXT, 2048X2048)
+[2017.09.30-00.22.44:100][565]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.22.44:160][565]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.22.44:174][565]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.22.45:731][639]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.09.30-00.22.45:731][639]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.30-00.22.45:731][639]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.30-00.22.49:028][835]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.22.49:039][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.09.30-00.22.49:069][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.09.30-00.22.49:089][835]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.22.49:107][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.09.30-00.22.49:142][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.09.30-00.22.49:151][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.09.30-00.22.49:173][835]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.22.49:191][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.09.30-00.22.49:227][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.09.30-00.22.49:235][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.09.30-00.22.49:242][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.09.30-00.22.49:260][835]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.22.49:280][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.09.30-00.22.49:311][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.09.30-00.22.49:318][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.09.30-00.22.49:328][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.09.30-00.22.49:336][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.09.30-00.22.50:588][897]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.09.30-00.22.50:588][897]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.30-00.22.50:588][897]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.30-00.23.15:665][968]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.23.15:683][968]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2017.09.30-00.23.17:943][ 84]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.09.30-00.23.17:943][ 84]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.23.17:943][ 84]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.30-00.23.17:943][ 84]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.23.19:985][206]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.23.20:004][206]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2017.09.30-00.23.21:160][260]MaterialEditorStats: Base pass shader: 91 instructions
+[2017.09.30-00.23.21:160][260]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.23.21:160][260]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.30-00.23.21:160][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.23.43:649][416]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.23.43:664][416]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2017.09.30-00.23.45:152][490]MaterialEditorStats: Base pass shader: 93 instructions
+[2017.09.30-00.23.45:152][490]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.23.45:152][490]MaterialEditorStats: Texture samplers: 4/16
+[2017.09.30-00.23.45:152][490]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.23.54:764][ 66]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.23.54:779][ 66]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2017.09.30-00.23.55:914][126]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.23.55:914][126]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.23.55:914][126]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.30-00.23.55:914][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.25.16:573][ 82]LogSavePackage: Save=35.11ms
+[2017.09.30-00.25.16:573][ 82]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Lobby_Auto183B571FD48A49FEBFD380CA65B624982.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/Lobby_Auto1.umap'
+[2017.09.30-00.25.16:575][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/Lobby_Auto1.umap
+[2017.09.30-00.25.16:578][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lobby' took 0.071
+[2017.09.30-00.25.16:578][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2017.09.30-00.25.16:579][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Lobby_BuiltData] ([1] browsable assets)...
+[2017.09.30-00.25.16:579][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Lobby_BuiltData]
+[2017.09.30-00.25.16:602][ 82]LogSavePackage: Save=11.16ms
+[2017.09.30-00.25.16:602][ 82]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Lobby_BuiltData_Auto1F229C52B4730DA18BC039BA7F491EC71.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/Lobby_BuiltData_Auto1.uasset'
+[2017.09.30-00.25.16:604][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/Lobby_BuiltData_Auto1.uasset
+[2017.09.30-00.25.16:604][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Plastics/Rubber/synth-rubber-roughness] ([1] browsable assets)...
+[2017.09.30-00.25.16:613][ 82]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Plastics/Rubber/synth-rubber-roughness.synth-rubber-roughness]
+[2017.09.30-00.25.16:613][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Plastics/Rubber/synth-rubber-roughness]
+[2017.09.30-00.25.16:640][ 82]LogSavePackage: Save=24.55ms
+[2017.09.30-00.25.16:640][ 82]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/synth-rubber-roughness_Auto151BC0D5348C235523786D7A40C17298D.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/synth-rubber-roughness_Auto1.uasset'
+[2017.09.30-00.25.16:642][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/synth-rubber-roughness_Auto1.uasset
+[2017.09.30-00.25.16:643][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Plastics/Rubber/synth-rubber-normal] ([1] browsable assets)...
+[2017.09.30-00.25.16:653][ 82]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Plastics/Rubber/synth-rubber-normal.synth-rubber-normal]
+[2017.09.30-00.25.16:653][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Plastics/Rubber/synth-rubber-normal]
+[2017.09.30-00.25.16:678][ 82]LogSavePackage: Save=23.19ms
+[2017.09.30-00.25.16:678][ 82]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/synth-rubber-normal_Auto11BF0EDDE43D5D79E879C89894F0E9075.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/synth-rubber-normal_Auto1.uasset'
+[2017.09.30-00.25.16:680][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/synth-rubber-normal_Auto1.uasset
+[2017.09.30-00.25.16:680][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Plastics/Rubber/synth-rubber-metalness] ([1] browsable assets)...
+[2017.09.30-00.25.16:686][ 82]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Plastics/Rubber/synth-rubber-metalness.synth-rubber-metalness]
+[2017.09.30-00.25.16:686][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Plastics/Rubber/synth-rubber-metalness]
+[2017.09.30-00.25.16:702][ 82]LogSavePackage: Save=14.00ms
+[2017.09.30-00.25.16:702][ 82]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/synth-rubber-metalness_Auto13F5208284A08E5A5B325C6B448523145.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/synth-rubber-metalness_Auto1.uasset'
+[2017.09.30-00.25.16:703][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/synth-rubber-metalness_Auto1.uasset
+[2017.09.30-00.25.16:704][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Plastics/Rubber/synth-rubber-albedo] ([1] browsable assets)...
+[2017.09.30-00.25.16:712][ 82]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Materials/Plastics/Rubber/synth-rubber-albedo.synth-rubber-albedo]
+[2017.09.30-00.25.16:712][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Plastics/Rubber/synth-rubber-albedo]
+[2017.09.30-00.25.16:734][ 82]LogSavePackage: Save=20.07ms
+[2017.09.30-00.25.16:734][ 82]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/synth-rubber-albedo_Auto196F083714CFFAB0F20F74882C5021090.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/synth-rubber-albedo_Auto1.uasset'
+[2017.09.30-00.25.16:735][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/synth-rubber-albedo_Auto1.uasset
+[2017.09.30-00.25.16:736][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/Plastics/Rubber/Rubber_PBR] ([1] browsable assets)...
+[2017.09.30-00.25.16:767][ 82]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Materials/Plastics/Rubber/Rubber_PBR.Rubber_PBR]
+[2017.09.30-00.25.16:767][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/Plastics/Rubber/Rubber_PBR]
+[2017.09.30-00.25.16:786][ 82]LogSavePackage: Save=16.31ms
+[2017.09.30-00.25.16:786][ 82]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Rubber_PBR_Auto1196BD86540BE5099F9AFAA82B68323AD.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/Rubber_PBR_Auto1.uasset'
+[2017.09.30-00.25.16:787][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Assets/Materials/Plastics/Rubber/Rubber_PBR_Auto1.uasset
+[2017.09.30-00.25.16:788][ 82]LogFileHelpers: Auto-saving content packages took 0.208
+[2017.09.30-00.27.34:149][449]LogMaterialEditor: Saving and Compiling material Rubber_PBR
+[2017.09.30-00.27.34:637][449]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.27.34:677][449]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.27.34:703][449]LogMaterial: Missing cached shader map for material Rubber_PBR, compiling. 
+[2017.09.30-00.27.34:745][449]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Rubber_PBR, compiling. 
+[2017.09.30-00.27.35:819][449]TextureStreamingBuild: Display: Compiling optional shaders took 1.079 seconds.
+[2017.09.30-00.27.37:410][449]LogSavePackage: Save=24.45ms
+[2017.09.30-00.27.37:410][449]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Rubber_PBRE858F8604348ECF1D318BBA43BD8D964.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/Rubber_PBR.uasset'
+[2017.09.30-00.27.37:419][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/Rubber_PBR.uasset
+[2017.09.30-00.27.37:429][449]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.27.37:429][449]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.27.37:429][449]MaterialEditorStats: Texture samplers: 6/16
+[2017.09.30-00.27.37:429][449]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.28.09:669][979]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/scuffed-plastic-1-Unreal-Engine/scuffed-plastic-1-Unreal-Engine/scuffed-plastic8-alb.png)
+[2017.09.30-00.28.09:846][979]LogTexture: Display: Building textures: scuffed-plastic8-alb (AutoDXT, 2048X2048)
+[2017.09.30-00.28.10:418][979]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/scuffed-plastic-1-Unreal-Engine/scuffed-plastic-1-Unreal-Engine/scuffed-plastic-metal.png)
+[2017.09.30-00.28.10:573][979]LogTexture: Display: Building textures: scuffed-plastic-metal (AutoDXT, 2048X2048)
+[2017.09.30-00.28.10:869][979]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/scuffed-plastic-1-Unreal-Engine/scuffed-plastic-1-Unreal-Engine/scuffed-plastic-normal.png)
+[2017.09.30-00.28.11:091][979]LogTexture: Display: Building textures: scuffed-plastic-normal (BC5, 2048X2048)
+[2017.09.30-00.28.11:461][979]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/croch/Downloads/scuffed-plastic-1-Unreal-Engine/scuffed-plastic-1-Unreal-Engine/scuffed-plastic-rough.png)
+[2017.09.30-00.28.11:674][979]LogTexture: Display: Building textures: scuffed-plastic-rough (AutoDXT, 2048X2048)
+[2017.09.30-00.28.34:869][311]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.28.34:927][311]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.28.34:940][311]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.28.36:471][382]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.09.30-00.28.36:471][382]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.30-00.28.36:471][382]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.30-00.28.39:164][541]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.28.39:179][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.09.30-00.28.39:212][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.09.30-00.28.39:227][541]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.28.39:241][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.09.30-00.28.39:271][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.09.30-00.28.39:278][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.09.30-00.28.39:303][541]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.28.39:322][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.09.30-00.28.39:357][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.09.30-00.28.39:364][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.09.30-00.28.39:370][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.09.30-00.28.39:390][541]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.28.39:404][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2017.09.30-00.28.39:436][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.09.30-00.28.39:442][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.09.30-00.28.39:448][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.09.30-00.28.39:454][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2017.09.30-00.28.40:787][605]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.09.30-00.28.40:787][605]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.30-00.28.40:787][605]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.30-00.28.51:505][234]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.28.51:519][234]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2017.09.30-00.28.52:994][312]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.09.30-00.28.52:994][312]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.28.52:994][312]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.30-00.28.52:994][312]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.28.56:398][516]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.28.56:418][516]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2017.09.30-00.28.57:548][571]MaterialEditorStats: Base pass shader: 87 instructions
+[2017.09.30-00.28.57:548][571]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.28.57:548][571]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.30-00.28.57:548][571]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.29.14:627][ 20]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.14:644][ 20]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2017.09.30-00.29.15:780][ 77]MaterialEditorStats: Base pass shader: 89 instructions
+[2017.09.30-00.29.15:781][ 77]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.29.15:781][ 77]MaterialEditorStats: Texture samplers: 4/16
+[2017.09.30-00.29.15:781][ 77]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.29.19:790][317]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.19:805][317]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2017.09.30-00.29.20:971][376]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.29.20:971][376]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.29.20:971][376]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.30-00.29.20:971][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.29.26:871][730]LogMaterialEditor: Saving and Compiling material BlueScuffedPlastic_PBR
+[2017.09.30-00.29.27:353][730]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.27:392][730]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.27:425][730]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.27:470][730]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.28:277][730]TextureStreamingBuild: Display: Compiling optional shaders took 0.814 seconds.
+[2017.09.30-00.29.29:815][730]LogSavePackage: Save=17.52ms
+[2017.09.30-00.29.29:815][730]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/BlueScuffedPlastic_PBR845E0D9E4FAF55ACA0DD4FBA0D33CEB5.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/BlueScuffedPlastic_PBR.uasset'
+[2017.09.30-00.29.29:818][730]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/BlueScuffedPlastic_PBR.uasset
+[2017.09.30-00.29.29:830][730]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.30-00.29.29:830][730]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.30-00.29.29:830][730]MaterialEditorStats: Texture samplers: 6/16
+[2017.09.30-00.29.29:830][730]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.30-00.29.35:419][ 59]LogActorFactory: Actor Factory created Sphere
+[2017.09.30-00.29.35:888][ 87]LogActorFactory: Actor Factory created Sphere
+[2017.09.30-00.29.41:895][446]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.30-00.29.41:910][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.29.41:910][446]PIE: New page: PIE session: Lobby (Sep 29, 2017, 4:29:41 PM)
+[2017.09.30-00.29.41:911][446]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.09.30-00.29.41:914][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003208s)
+[2017.09.30-00.29.41:915][446]LogAIModule: Creating AISystem for world Lobby
+[2017.09.30-00.29.41:915][446]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2017.09.30-00.29.41:916][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.004443s)
+[2017.09.30-00.29.41:935][446]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.30-00.29.41:942][446]LogInit: FAudioDevice initialized.
+[2017.09.30-00.29.41:986][446]LogLoad: Game class is 'LobbyGM_C'
+[2017.09.30-00.29.41:988][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2017.09.29-20.29.41
+[2017.09.30-00.29.41:988][446]LogWorld: Bringing up level for play took: 0.001039
+[2017.09.30-00.29.41:992][446]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.688
+[2017.09.30-00.29.45:330][637]MapCheck: New page: Map Check
+[2017.09.30-00.29.45:343][637]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.30-00.29.45:344][637]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.30-00.29.45:470][637]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.30-00.29.45:477][637]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.30-00.29.45:482][637]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_11, compiling. 
+[2017.09.30-00.29.45:488][637]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.45:751][637]TextureStreamingBuild: Display: Compiling optional shaders took 0.315 seconds.
+[2017.09.30-00.29.45:759][637]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2017.09.30-00.29.45:769][637]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2017.09.30-00.29.45:786][637]LightingResults: New page: Lighting Build - Sep 29, 2017, 4:29:45 PM
+[2017.09.30-00.29.45:795][637]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.30-00.29.45:799][637]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.30-00.29.45:799][637]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.30-00.29.45:801][637]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.30-00.29.45:801][637]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23400
+[2017.09.30-00.29.50:310][637]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.30-00.29.50:311][637]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.30-00.29.50:311][637]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.30-00.29.50:311][637]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.30-00.29.50:311][637]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.30-00.29.50:311][637]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.30-00.29.50:367][637]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.30-00.29.50:367][637]MapCheck: New page: Lobby - Sep 29, 2017, 4:29:50 PM
+[2017.09.30-00.29.50:368][637]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.09.30-00.29.50:429][637]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 62.128ms to complete.
+[2017.09.30-00.29.50:452][637]LogEditorBuildUtils: Build time 0:05
+[2017.09.30-00.29.50:486][637]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.50:492][637]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.52:524][695]Job is a success!
+[2017.09.30-00.29.52:581][696]LogMaterial: Warning: Material /Game/Assets/Materials/Plastics/ScuffedPlastic/BlueScuffedPlastic_PBR.BlueScuffedPlastic_PBR needed to have new flag set bUsedWithStaticLighting !
+[2017.09.30-00.29.52:587][696]LogMaterial: Missing cached shader map for material BlueScuffedPlastic_PBR, compiling. 
+[2017.09.30-00.29.52:668][696]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.09.30-00.29.52:668][696]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.09.30-00.29.52:668][696]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.09.30-00.29.52:668][696]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.09.30-00.29.52:668][696]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 32X32)
+[2017.09.30-00.29.52:668][696]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X128)
+[2017.09.30-00.29.52:708][696]Lightmass on DESKTOP-SIJTC7B: 918 ms total, 118 ms importing, 26 ms setup, 335 ms photons, 415 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 2.74 sec total, 430 ms processing.
+[2017.09.30-00.29.52:721][696]LogStaticLightingSystem: Illumination: 6.91 sec (16 ms encoding lightmaps, 31 ms encoding shadowmaps)
+[2017.09.30-00.29.52:721][696]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.30-00.29.52:721][696]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.30-00.29.53:314][696]DumpUnbuiltLightIteractions
+[2017.09.30-00.29.53:314][696]Lights with unbuilt interactions: 0
+[2017.09.30-00.29.53:315][696]
+[2017.09.30-00.29.53:315][696]Primitives with unbuilt interactions: 0
+[2017.09.30-00.29.53:330][697]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.30-00.29.53:330][697]MapCheck: New page: Lobby - Sep 29, 2017, 4:29:53 PM
+[2017.09.30-00.29.53:425][697]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.968ms to complete.
+[2017.09.30-00.29.58:018][970]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.30-00.29.58:033][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.30-00.29.58:033][970]PIE: New page: PIE session: Lobby (Sep 29, 2017, 4:29:58 PM)
+[2017.09.30-00.29.58:034][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lobby
+[2017.09.30-00.29.58:037][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002977s)
+[2017.09.30-00.29.58:038][970]LogAIModule: Creating AISystem for world Lobby
+[2017.09.30-00.29.58:038][970]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2017.09.30-00.29.58:038][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lobby.Lobby to /Game/Maps/UEDPIE_0_Lobby.Lobby (0.004014s)
+[2017.09.30-00.29.58:056][970]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.30-00.29.58:062][970]LogInit: FAudioDevice initialized.
+[2017.09.30-00.29.58:105][970]LogLoad: Game class is 'LobbyGM_C'
+[2017.09.30-00.29.58:107][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lobby.Lobby up for play (max tick rate 60) at 2017.09.29-20.29.58
+[2017.09.30-00.29.58:108][970]LogWorld: Bringing up level for play took: 0.001233
+[2017.09.30-00.29.58:113][970]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lobby 0.808
+[2017.09.30-00.31.02:652][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.09.30-00.31.03:520][726]Cmd: DELETE
+[2017.09.30-00.31.03:521][726]Cmd: ACTOR DELETE
+[2017.09.30-00.31.03:521][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.09.30-00.31.03:538][726]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.09.30-00.31.05:279][831]MapCheck: New page: Map Check
+[2017.09.30-00.31.05:296][831]Cmd: MAP REBUILD ALLVISIBLE
+[2017.09.30-00.31.05:296][831]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.09.30-00.31.05:388][831]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.09.30-00.31.05:395][831]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2017.09.30-00.31.05:400][831]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_12, compiling. 
+[2017.09.30-00.31.05:853][831]TextureStreamingBuild: Display: Compiling optional shaders took 0.469 seconds.
+[2017.09.30-00.31.05:856][831]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2017.09.30-00.31.05:861][831]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2017.09.30-00.31.05:876][831]LightingResults: New page: Lighting Build - Sep 29, 2017, 4:31:05 PM
+[2017.09.30-00.31.05:883][831]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.09.30-00.31.05:887][831]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.09.30-00.31.05:887][831]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.09.30-00.31.05:887][831]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.09.30-00.31.05:887][831]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23400
+[2017.09.30-00.31.10:398][831]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.09.30-00.31.10:398][831]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.09.30-00.31.10:398][831]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.09.30-00.31.10:398][831]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.09.30-00.31.10:398][831]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.09.30-00.31.10:398][831]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.09.30-00.31.10:455][831]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.09.30-00.31.10:455][831]MapCheck: New page: Lobby - Sep 29, 2017, 4:31:10 PM
+[2017.09.30-00.31.10:517][831]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.201ms to complete.
+[2017.09.30-00.31.10:539][831]LogEditorBuildUtils: Build time 0:05
+[2017.09.30-00.31.11:834][881]Job is a success!
+[2017.09.30-00.31.11:938][882]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.09.30-00.31.11:938][882]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.09.30-00.31.11:938][882]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.09.30-00.31.11:938][882]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.09.30-00.31.11:938][882]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 32X32)
+[2017.09.30-00.31.11:938][882]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 128X128)
+[2017.09.30-00.31.11:968][882]Lightmass on DESKTOP-SIJTC7B: 806 ms total, 110 ms importing, 23 ms setup, 309 ms photons, 343 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.24 sec total, 296 ms processing.
+[2017.09.30-00.31.11:976][882]LogStaticLightingSystem: Illumination: 6.07 sec (8 ms encoding lightmaps, 31 ms encoding shadowmaps)
+[2017.09.30-00.31.11:976][882]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.09.30-00.31.11:976][882]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.09.30-00.31.12:403][882]DumpUnbuiltLightIteractions
+[2017.09.30-00.31.12:403][882]Lights with unbuilt interactions: 0
+[2017.09.30-00.31.12:403][882]
+[2017.09.30-00.31.12:403][882]Primitives with unbuilt interactions: 0
+[2017.09.30-00.31.12:414][883]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.09.30-00.31.12:414][883]MapCheck: New page: Lobby - Sep 29, 2017, 4:31:12 PM
+[2017.09.30-00.31.12:478][883]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.408ms to complete.
+[2017.09.30-00.31.27:224][655]LogSavePackage: Save=619.93ms
+[2017.09.30-00.31.27:224][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/synth-rubber-albedo2214E62E46B3FC550D13B5BA6ED1FC36.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/synth-rubber-albedo.uasset'
+[2017.09.30-00.31.27:232][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/synth-rubber-albedo.uasset
+[2017.09.30-00.31.27:387][655]LogSavePackage: Save=144.90ms
+[2017.09.30-00.31.27:387][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/synth-rubber-metalness9CD67C4B4C080C8086DC298ABC04AECF.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/synth-rubber-metalness.uasset'
+[2017.09.30-00.31.27:395][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/synth-rubber-metalness.uasset
+[2017.09.30-00.31.28:445][655]LogSavePackage: Save=1037.59ms
+[2017.09.30-00.31.28:445][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/synth-rubber-normalF419AD154ADD5DDB9E55FDBE900F5356.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/synth-rubber-normal.uasset'
+[2017.09.30-00.31.28:453][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/synth-rubber-normal.uasset
+[2017.09.30-00.31.28:957][655]LogSavePackage: Save=490.28ms
+[2017.09.30-00.31.28:958][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/synth-rubber-roughness4115D7E24BD4BFAF9D79C88AD9EF4B82.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/synth-rubber-roughness.uasset'
+[2017.09.30-00.31.28:963][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/Rubber/synth-rubber-roughness.uasset
+[2017.09.30-00.31.28:986][655]LogSavePackage: Save=7.93ms
+[2017.09.30-00.31.28:986][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/BlueScuffedPlastic_PBR7B77410A43F0E34A0AACECA5516DA23C.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/BlueScuffedPlastic_PBR.uasset'
+[2017.09.30-00.31.28:989][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/BlueScuffedPlastic_PBR.uasset
+[2017.09.30-00.31.29:141][655]LogSavePackage: Save=140.90ms
+[2017.09.30-00.31.29:141][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/scuffed-plastic-metal6304F4B041774AE3741F9797681746AF.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/scuffed-plastic-metal.uasset'
+[2017.09.30-00.31.29:144][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/scuffed-plastic-metal.uasset
+[2017.09.30-00.31.29:728][655]LogSavePackage: Save=570.99ms
+[2017.09.30-00.31.29:728][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/scuffed-plastic-normal87018F8B4D2362B41723F3B30DD26432.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/scuffed-plastic-normal.uasset'
+[2017.09.30-00.31.29:732][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/scuffed-plastic-normal.uasset
+[2017.09.30-00.31.30:210][655]LogSavePackage: Save=462.63ms
+[2017.09.30-00.31.30:210][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/scuffed-plastic-rough89A605F54AA83389972102978712D489.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/scuffed-plastic-rough.uasset'
+[2017.09.30-00.31.30:213][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/scuffed-plastic-rough.uasset
+[2017.09.30-00.31.30:634][655]LogSavePackage: Save=399.38ms
+[2017.09.30-00.31.30:634][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/scuffed-plastic8-albC5F1D0954B81FC9D30546795D55F5166.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/scuffed-plastic8-alb.uasset'
+[2017.09.30-00.31.30:637][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Assets/Materials/Plastics/ScuffedPlastic/scuffed-plastic8-alb.uasset
+[2017.09.30-00.31.30:705][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.30-00.31.30:761][655]LogSavePackage: Save=33.37ms
+[2017.09.30-00.31.30:762][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Lobby51A994654859AB3D222EBE8BF7597DE8.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap'
+[2017.09.30-00.31.30:767][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby.umap
+[2017.09.30-00.31.30:793][655]LogFileHelpers: Saving map 'Lobby' took 0.151
+[2017.09.30-00.31.30:796][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2017.09.30-00.31.30:819][655]LogSavePackage: Save=12.64ms
+[2017.09.30-00.31.30:819][655]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Lobby_BuiltData983E22784A136E0D395921A1A6843550.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby_BuiltData.uasset'
+[2017.09.30-00.31.30:822][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Maps/Lobby_BuiltData.uasset
