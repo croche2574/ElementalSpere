@@ -6854,3 +6854,135 @@ LogInit: Object subsystem initialized
 [2017.10.01-15.56.26:931][845]LogSavePackage: Save=189.01ms
 [2017.10.01-15.56.26:931][845]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/OptionsMenu45BEA3384F6828B14112D4812AB8FE5B.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/OptionsMenu.uasset'
 [2017.10.01-15.56.26:935][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/OptionsMenu.uasset
+[2017.10.01-16.04.17:176][141]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.036
+[2017.10.01-16.04.17:178][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-16.04.17:178][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-16.04.17:239][141]LogSavePackage: Save=39.02ms
+[2017.10.01-16.04.17:239][141]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto139DBCEA6457C5122C0468097F602DBE8.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto1.uasset'
+[2017.10.01-16.04.17:240][141]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto1.uasset
+[2017.10.01-16.04.17:240][141]LogFileHelpers: Auto-saving content packages took 0.064
+[2017.10.01-16.07.36:710][299]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.07.37:157][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-16.07.37:212][317]LogSavePackage: Save=43.37ms
+[2017.10.01-16.07.37:212][317]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenuFA159EFE4FE7DF979CC2B7AF21F75BEB.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-16.07.37:216][317]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-16.15.16:493][395]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.031
+[2017.10.01-16.15.16:495][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-16.15.16:495][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-16.15.16:595][395]LogSavePackage: Save=79.36ms
+[2017.10.01-16.15.16:595][395]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto29E289CBA4A75C7BC0CED2B858FEF5BB9.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto2.uasset'
+[2017.10.01-16.15.16:596][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto2.uasset
+[2017.10.01-16.15.16:596][395]LogFileHelpers: Auto-saving content packages took 0.102
+[2017.10.01-16.16.40:548][196]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.16.41:095][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-16.16.41:173][221]LogSavePackage: Save=68.50ms
+[2017.10.01-16.16.41:173][221]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu02C2BF1A46E8BFF7ED2E97AA910B7ACA.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-16.16.41:178][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-16.18.09:660][241]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.18.10:297][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-16.18.10:381][263]LogSavePackage: Save=72.59ms
+[2017.10.01-16.18.10:381][263]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenuB16264BA4F0ED2905ADE7A982D2B346C.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-16.18.10:384][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-16.25.17:080][225]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.023
+[2017.10.01-16.25.17:082][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-16.25.17:082][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-16.25.17:171][225]LogSavePackage: Save=72.67ms
+[2017.10.01-16.25.17:171][225]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto3CE7AD8DF47B57804CA1A1290E3FD07F0.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto3.uasset'
+[2017.10.01-16.25.17:174][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto3.uasset
+[2017.10.01-16.25.17:174][225]LogFileHelpers: Auto-saving content packages took 0.093
+[2017.10.01-16.34.17:980][871]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.34.18:049][871]LogBlueprint: Error: [Compiler ServerMenu] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2017.10.01-16.34.18:092][871]LogBlueprint: Warning: [Compiler ServerMenu] [7097.40] Compile of ServerMenu failed. 1 Fatal Issue(s) 0 Warning(s) [in 111 ms] (/Game/UI/MainMenu/ServerMenu.ServerMenu)
+[2017.10.01-16.34.18:556][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-16.34.18:650][896]LogSavePackage: Save=78.36ms
+[2017.10.01-16.34.18:650][896]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenuB253D5B04BFC81FC1F0C8C803AD1BCD0.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-16.34.18:655][896]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-16.35.29:034][776]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.35.54:782][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.032
+[2017.10.01-16.35.54:784][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-16.35.54:784][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-16.35.54:903][920]LogSavePackage: Save=101.19ms
+[2017.10.01-16.35.54:903][920]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto4E5402A5F496884696F64398D9551D852.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto4.uasset'
+[2017.10.01-16.35.54:905][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto4.uasset
+[2017.10.01-16.35.54:905][920]LogFileHelpers: Auto-saving content packages took 0.122
+[2017.10.01-16.39.24:929][991]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.41.56:110][ 21]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.41.56:516][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-16.41.56:634][ 37]LogSavePackage: Save=97.45ms
+[2017.10.01-16.41.56:634][ 37]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu6D44B52F4DED78B4A54BEB917854E96D.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-16.41.56:637][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-16.44.02:427][788]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.44.02:875][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-16.44.02:983][806]LogSavePackage: Save=98.72ms
+[2017.10.01-16.44.02:984][806]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu1775874445BBAA533EB5CFBF4D9142EA.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-16.44.02:987][806]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-16.45.43:089][754]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.45.43:539][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-16.45.43:653][772]LogSavePackage: Save=103.30ms
+[2017.10.01-16.45.43:653][772]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenuE684A9DB4B28EC6586A6728BA49C8D4D.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-16.45.43:657][772]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-16.47.43:389][764]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.027
+[2017.10.01-16.47.43:394][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-16.47.43:394][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-16.47.43:543][764]LogSavePackage: Save=128.69ms
+[2017.10.01-16.47.43:543][764]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto553EA96594684491C064E2B9C69C8A739.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto5.uasset'
+[2017.10.01-16.47.43:545][764]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto5.uasset
+[2017.10.01-16.47.43:545][764]LogFileHelpers: Auto-saving content packages took 0.152
+[2017.10.01-16.48.55:410][552]LogClass: Warning: Type mismatch in FoundSessions of SKEL_ServerMenu_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2017.10.01-16.56.23:070][136]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.56.28:456][449]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-16.57.44:128][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.036
+[2017.10.01-16.57.44:130][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-16.57.44:130][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-16.57.44:313][ 25]LogSavePackage: Save=154.78ms
+[2017.10.01-16.57.44:313][ 25]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto620823CA64E493AC88BBEC8BEBFB81073.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto6.uasset'
+[2017.10.01-16.57.44:315][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto6.uasset
+[2017.10.01-16.57.44:315][ 25]LogFileHelpers: Auto-saving content packages took 0.187
+[2017.10.01-17.07.45:024][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.035
+[2017.10.01-17.07.45:025][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-17.07.45:026][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-17.07.45:176][602]LogSavePackage: Save=132.25ms
+[2017.10.01-17.07.45:176][602]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto761E68B7F4A32FA8934C6E5BD9A941608.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto7.uasset'
+[2017.10.01-17.07.45:178][602]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto7.uasset
+[2017.10.01-17.07.45:179][602]LogFileHelpers: Auto-saving content packages took 0.154
+[2017.10.01-17.17.48:719][810]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.028
+[2017.10.01-17.17.48:720][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-17.17.48:721][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-17.17.48:874][810]LogSavePackage: Save=135.85ms
+[2017.10.01-17.17.48:874][810]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto8B4C5F2364282F18622F464963A1DFFAD.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto8.uasset'
+[2017.10.01-17.17.48:877][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto8.uasset
+[2017.10.01-17.17.48:877][810]LogFileHelpers: Auto-saving content packages took 0.157
+[2017.10.01-17.27.49:615][779]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.030
+[2017.10.01-17.27.49:618][779]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-17.27.49:618][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-17.27.49:800][779]LogSavePackage: Save=159.54ms
+[2017.10.01-17.27.49:800][779]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto917373710445B741928BF5DACBDCF385B.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto9.uasset'
+[2017.10.01-17.27.49:803][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto9.uasset
+[2017.10.01-17.27.49:803][779]LogFileHelpers: Auto-saving content packages took 0.187
+[2017.10.01-17.54.38:790][876]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-17.54.39:424][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-17.54.39:590][901]LogSavePackage: Save=148.13ms
+[2017.10.01-17.54.39:590][901]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu990F2AAA4AA116715DC519B3810B5A32.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-17.54.39:597][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-17.54.56:800][930]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-17.54.57:194][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-17.54.57:355][941]LogSavePackage: Save=151.10ms
+[2017.10.01-17.54.57:355][941]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu723D0F6C459CE182B8059B9EC2E92CCF.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-17.54.57:358][941]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-17.59.42:073][  0]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.028
+[2017.10.01-17.59.42:074][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu/ServerMenu] ([1] browsable assets)...
+[2017.10.01-17.59.42:074][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu/ServerMenu]
+[2017.10.01-17.59.42:240][  0]LogSavePackage: Save=147.30ms
+[2017.10.01-17.59.42:240][  0]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu_Auto061C584274EDBA206321CE38E1283FCCB.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto0.uasset'
+[2017.10.01-17.59.42:243][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/MainMenu/ServerMenu_Auto0.uasset
+[2017.10.01-17.59.42:243][  0]LogFileHelpers: Auto-saving content packages took 0.169
+[2017.10.01-18.00.32:647][773]BlueprintLog: New page: Compile ServerMenu
+[2017.10.01-18.00.33:243][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2017.10.01-18.00.33:408][799]LogSavePackage: Save=153.89ms
+[2017.10.01-18.00.33:408][799]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ServerMenu317D451A4331235BA08E60BF3B4A1E87.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset'
+[2017.10.01-18.00.33:412][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/MainMenu/ServerMenu.uasset
+[2017.10.01-18.06.31:636][427]LogTemp: Repeating last play command: Standalone Game
+[2017.10.01-18.06.31:845][427]LogSavePackage: Save=33.77ms
+[2017.10.01-18.06.31:846][427]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/UEDPCMainMenuC5CE63F043C3C6C8CF29779E9CCC3A62.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2017.10.01-18.06.31:847][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2017.10.01-18.06.31:859][427]LogEditorTransaction: Undo Spawn Play From Here Start
