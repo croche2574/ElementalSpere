@@ -7020,3 +7020,104 @@ LogInit: Object subsystem initialized
 [2017.10.01-18.54.14:976][140]LogSavePackage: Save=12.41ms
 [2017.10.01-18.54.14:976][140]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenuA93EE65F46EBCA6DED345686EE5DAF61.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset'
 [2017.10.01-18.54.14:979][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset
+[2017.10.01-18.59.26:407][520]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.00.41:593][619]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.034
+[2017.10.01-19.00.41:595][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/LobbyPC] ([1] browsable assets)...
+[2017.10.01-19.00.41:595][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/LobbyPC]
+[2017.10.01-19.00.41:636][619]LogSavePackage: Save=18.45ms
+[2017.10.01-19.00.41:636][619]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC_Auto3C153F4344D6D29E542647ABE649D2A68.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto3.uasset'
+[2017.10.01-19.00.41:638][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto3.uasset
+[2017.10.01-19.00.41:638][619]LogFileHelpers: Auto-saving content packages took 0.044
+[2017.10.01-19.00.55:023][105]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.00.55:665][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.00.55:689][129]LogSavePackage: Save=13.63ms
+[2017.10.01-19.00.55:689][129]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPCAA561B694BE6FA2F4C584A812B9741A3.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.00.55:693][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.01.28:045][910]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.01.28:442][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.01.28:466][919]LogSavePackage: Save=14.32ms
+[2017.10.01-19.01.28:466][919]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC93E26B984088D2FA0A96A8A4DEE973EC.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.01.28:470][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.01.33:290][207]LogRenderer: Reallocating scene render targets to support 784x372 Format 10 NumSamples 1 (Frame:1).
+[2017.10.01-19.01.46:193][981]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.01.46:839][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.01.46:866][  5]LogSavePackage: Save=15.76ms
+[2017.10.01-19.01.46:866][  5]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC723F8C0046BA885DA3B4D3B9CBCFC322.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.01.46:869][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.04.56:627][884]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.06.57:717][299]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.06.58:122][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.06.58:164][308]LogSavePackage: Save=19.97ms
+[2017.10.01-19.06.58:164][308]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC21623CE64A2272A56524CD94456FE00D.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.06.58:167][308]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.08.09:016][430]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.09.37:227][ 87]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.01-19.09.47:550][704]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.09.48:489][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.09.48:529][745]LogSavePackage: Save=28.24ms
+[2017.10.01-19.09.48:529][745]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC3EFBBCE24A2633E75587BFB9509E69E6.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.09.48:532][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.10.18:570][555]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.10.19:120][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.10.19:160][572]LogSavePackage: Save=27.89ms
+[2017.10.01-19.10.19:160][572]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPCBB3DFD5F4E7B5554E59100B09658E47E.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.10.19:164][572]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.10.58:786][215]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.031
+[2017.10.01-19.10.58:788][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/LobbyPC] ([1] browsable assets)...
+[2017.10.01-19.10.58:788][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/LobbyPC]
+[2017.10.01-19.10.58:847][215]LogSavePackage: Save=37.13ms
+[2017.10.01-19.10.58:847][215]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC_Auto4CCC92882421A887A7DB555B098F11CFA.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto4.uasset'
+[2017.10.01-19.10.58:849][215]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto4.uasset
+[2017.10.01-19.10.58:849][215]LogFileHelpers: Auto-saving content packages took 0.062
+[2017.10.01-19.12.36:752][887]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.12.37:413][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.12.37:471][911]LogSavePackage: Save=33.92ms
+[2017.10.01-19.12.37:471][911]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC9F5FE6E04F0B47D232F47AAF96A62833.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.12.37:475][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.20.59:272][609]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.033
+[2017.10.01-19.20.59:273][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/LobbyPC] ([1] browsable assets)...
+[2017.10.01-19.20.59:273][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/LobbyPC]
+[2017.10.01-19.20.59:342][609]LogSavePackage: Save=48.12ms
+[2017.10.01-19.20.59:342][609]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC_Auto5267B468B43106EF1B3240794F0D4376D.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto5.uasset'
+[2017.10.01-19.20.59:343][609]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto5.uasset
+[2017.10.01-19.20.59:343][609]LogFileHelpers: Auto-saving content packages took 0.071
+[2017.10.01-19.23.36:057][556]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.23.36:546][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.23.36:614][568]LogSavePackage: Save=53.95ms
+[2017.10.01-19.23.36:614][568]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPCE359762748C9045B5025BDADFB11A67A.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.23.36:625][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.29.31:001][200]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.29.31:643][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.29.31:726][220]LogSavePackage: Save=62.93ms
+[2017.10.01-19.29.31:726][220]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC4CB87E634BDDD37CA05E9E9C014A252F.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.29.31:731][220]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.31.05:933][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.045
+[2017.10.01-19.31.05:934][774]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/LobbyPC] ([1] browsable assets)...
+[2017.10.01-19.31.05:934][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/LobbyPC]
+[2017.10.01-19.31.06:055][774]LogSavePackage: Save=101.50ms
+[2017.10.01-19.31.06:055][774]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC_Auto6B62815E342200BB83388FFBADC6EF639.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto6.uasset'
+[2017.10.01-19.31.06:062][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto6.uasset
+[2017.10.01-19.31.06:062][774]LogFileHelpers: Auto-saving content packages took 0.129
+[2017.10.01-19.32.08:570][942]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.01-19.33.38:668][117]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.33.39:182][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.33.39:280][129]LogSavePackage: Save=83.09ms
+[2017.10.01-19.33.39:280][129]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC007354B04A9BF222B8788CBDEF5B1879.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.33.39:284][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.39.10:154][579]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.39.10:721][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.39.10:825][594]LogSavePackage: Save=81.53ms
+[2017.10.01-19.39.10:825][594]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC86DD21D5449F74FDDB2DE290DDB81214.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.39.10:830][594]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
+[2017.10.01-19.43.11:568][742]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.027
+[2017.10.01-19.43.11:570][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/LobbyPC] ([1] browsable assets)...
+[2017.10.01-19.43.11:570][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/LobbyPC]
+[2017.10.01-19.43.11:679][742]LogSavePackage: Save=97.21ms
+[2017.10.01-19.43.11:679][742]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPC_Auto7A137F223442B03ECB8DBC9A5EBA207FF.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto7.uasset'
+[2017.10.01-19.43.11:682][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyPC_Auto7.uasset
+[2017.10.01-19.43.11:682][742]LogFileHelpers: Auto-saving content packages took 0.113
+[2017.10.01-19.43.35:134][180]BlueprintLog: New page: Compile LobbyPC
+[2017.10.01-19.43.35:605][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2017.10.01-19.43.35:709][189]LogSavePackage: Save=88.81ms
+[2017.10.01-19.43.35:709][189]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyPCD0EAF6D64CF77792F77D85A2571C7F00.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2017.10.01-19.43.35:713][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyPC.uasset
