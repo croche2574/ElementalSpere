@@ -9155,3 +9155,33 @@ LogInit: Object subsystem initialized
 [2017.10.03-13.27.31:291][519]LogEditorTransaction: Undo Spawn Play From Here Start
 [2017.10.03-13.35.54:048][375]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
 [2017.10.03-14.21.22:022][670]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.10.03-14.30.03:320][867]LogTemp: Repeating last play command: Standalone Game
+[2017.10.03-14.30.03:534][867]LogSavePackage: Save=34.09ms
+[2017.10.03-14.30.03:534][867]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/UEDPCMainMenuE305E81543072BCEA893008C0429D59F.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2017.10.03-14.30.03:537][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2017.10.03-14.30.03:545][867]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.10.03-14.32.56:851][370]BlueprintLog: New page: Compile LobbyGM
+[2017.10.03-14.32.57:962][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2017.10.03-14.32.58:126][403]LogSavePackage: Save=138.76ms
+[2017.10.03-14.32.58:126][403]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyGMB7B9DB0F43FBE8F3CF1D699D7E37836C.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2017.10.03-14.32.58:130][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset
+[2017.10.03-14.32.59:307][537]LogTemp: Repeating last play command: Standalone Game
+[2017.10.03-14.32.59:505][537]LogSavePackage: Save=25.67ms
+[2017.10.03-14.32.59:505][537]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/UEDPCMainMenuE62C0B0F4603BE1B4E32FA8404D16437.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2017.10.03-14.32.59:507][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2017.10.03-14.32.59:516][537]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.10.03-14.35.33:748][831]BlueprintLog: New page: Compile LobbyGM
+[2017.10.03-14.35.34:520][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2017.10.03-14.35.34:675][832]LogSavePackage: Save=135.50ms
+[2017.10.03-14.35.34:675][832]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyGM72F1E1764D96E2C3F445668C8B26FD5E.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2017.10.03-14.35.34:679][832]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset
+[2017.10.03-14.36.57:307][641]BlueprintLog: New page: Compile LobbyGM
+[2017.10.03-14.36.58:457][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2017.10.03-14.36.58:606][688]LogSavePackage: Save=135.62ms
+[2017.10.03-14.36.58:606][688]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyGM3ED8995E46609A2BD4405FB5AB774A1A.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2017.10.03-14.36.58:610][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset
+[2017.10.03-14.37.00:151][868]LogTemp: Repeating last play command: Standalone Game
+[2017.10.03-14.37.00:353][868]LogSavePackage: Save=25.06ms
+[2017.10.03-14.37.00:353][868]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/UEDPCMainMenuD02FEB994F83D67F1E4C5CA6E143FFEA.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2017.10.03-14.37.00:355][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2017.10.03-14.37.00:363][868]LogEditorTransaction: Undo Spawn Play From Here Start
