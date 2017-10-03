@@ -8692,3 +8692,161 @@ LogInit: Object subsystem initialized
 [2017.10.02-01.02.02:616][647]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu8964D8264492F921542DFB9257743B32.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset'
 [2017.10.02-01.02.02:621][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset
 [2017.10.02-01.02.03:024][670]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.02-01.03.03:413][600]LogSlate: Took 0.003550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.02-01.04.03:059][903]BlueprintLog: New page: Compile LobbyGM
+[2017.10.02-01.04.03:693][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2017.10.02-01.04.03:734][920]LogSavePackage: Save=15.18ms
+[2017.10.02-01.04.03:734][920]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyGM7E6F890844F630BEC7060587A64A2CBD.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2017.10.02-01.04.03:736][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset
+[2017.10.02-01.09.42:143][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.027
+[2017.10.02-01.09.42:145][402]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/LobbyGM] ([1] browsable assets)...
+[2017.10.02-01.09.42:145][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/LobbyGM]
+[2017.10.02-01.09.42:183][402]LogSavePackage: Save=18.26ms
+[2017.10.02-01.09.42:183][402]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyGM_Auto695B677F344A856C7CA4122912003E976.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyGM_Auto6.uasset'
+[2017.10.02-01.09.42:186][402]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyGM_Auto6.uasset
+[2017.10.02-01.09.42:186][402]LogFileHelpers: Auto-saving content packages took 0.042
+[2017.10.02-01.21.32:221][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.034
+[2017.10.02-01.21.32:223][ 66]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/LobbyGM] ([1] browsable assets)...
+[2017.10.02-01.21.32:223][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/LobbyGM]
+[2017.10.02-01.21.32:270][ 66]LogSavePackage: Save=18.55ms
+[2017.10.02-01.21.32:270][ 66]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyGM_Auto7DCA22A3D45A28CF0DFD45390279DB877.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyGM_Auto7.uasset'
+[2017.10.02-01.21.32:271][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/Blueprints/Lobby/LobbyGM_Auto7.uasset
+[2017.10.02-01.21.32:271][ 66]LogFileHelpers: Auto-saving content packages took 0.049
+[2017.10.02-01.23.20:241][527]BlueprintLog: New page: Compile LobbyGM
+[2017.10.02-01.23.23:409][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2017.10.02-01.23.23:439][698]LogSavePackage: Save=17.58ms
+[2017.10.02-01.23.23:439][698]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyGM8BE2BFEC456456AE428AE7B94D52A05A.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2017.10.02-01.23.23:442][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset
+[2017.10.02-01.24.19:771][739]LogSlate: Took 0.003985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.10.02-01.26.02:163][459]BlueprintLog: New page: Compile ConnectedPlayer
+[2017.10.02-01.26.02:943][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/ConnectedPlayer" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/ConnectedPlayer.uasset" SILENT=true
+[2017.10.02-01.26.02:976][503]LogSavePackage: Save=12.67ms
+[2017.10.02-01.26.02:976][503]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/ConnectedPlayerDC9936B645521D1EE6E35A8A5261C549.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/ConnectedPlayer.uasset'
+[2017.10.02-01.26.02:979][503]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/ConnectedPlayer.uasset
+[2017.10.02-01.30.34:464][816]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.02-01.30.34:919][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2017.10.02-01.30.34:998][837]LogSavePackage: Save=60.85ms
+[2017.10.02-01.30.34:998][837]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu3CEE15B9419BF616921CFBAFF6F88F50.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset'
+[2017.10.02-01.30.35:002][837]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset
+[2017.10.02-01.31.49:183][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.028
+[2017.10.02-01.31.49:185][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2017.10.02-01.31.49:185][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2017.10.02-01.31.49:254][145]LogSavePackage: Save=54.65ms
+[2017.10.02-01.31.49:254][145]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu_Auto8DFF893A04944E1C11AADF48D5ABA6621.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto8.uasset'
+[2017.10.02-01.31.49:256][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto8.uasset
+[2017.10.02-01.31.49:256][145]LogFileHelpers: Auto-saving content packages took 0.072
+[2017.10.02-01.34.03:391][466]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.02-01.34.03:853][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2017.10.02-01.34.03:937][487]LogSavePackage: Save=69.92ms
+[2017.10.02-01.34.03:937][487]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu0D53BD0C42C6442B0DF4FA94B74A8FBA.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset'
+[2017.10.02-01.34.03:940][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset
+[2017.10.02-01.38.59:295][773]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.02-01.38.59:330][773]LogBlueprint: Warning: [Compiler LobbyMenu] Input pin  My Player Image  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2017.10.02-01.38.59:384][773]LogBlueprint: Warning: [Compiler LobbyMenu] [9778.74] Compile of LobbyMenu successful, but with 1 Warning(s) [in 88 ms] (/Game/UI/Lobby/LobbyMenu.LobbyMenu)
+[2017.10.02-01.42.00:518][846]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.029
+[2017.10.02-01.42.00:520][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2017.10.02-01.42.00:520][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2017.10.02-01.42.00:619][846]LogSavePackage: Save=77.49ms
+[2017.10.02-01.42.00:619][846]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu_Auto92E63189F4D4C879770B1449011B16A33.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto9.uasset'
+[2017.10.02-01.42.00:622][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto9.uasset
+[2017.10.02-01.42.00:622][846]LogFileHelpers: Auto-saving content packages took 0.102
+[2017.10.02-01.52.00:964][162]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.037
+[2017.10.02-01.52.00:966][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2017.10.02-01.52.00:966][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2017.10.02-01.52.01:063][162]LogSavePackage: Save=77.26ms
+[2017.10.02-01.52.01:063][162]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu_Auto0D7C8482E4154A0962F8653B8CCAA94B4.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto0.uasset'
+[2017.10.02-01.52.01:065][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto0.uasset
+[2017.10.02-01.52.01:066][162]LogFileHelpers: Auto-saving content packages took 0.101
+[2017.10.02-01.52.54:019][663]BlueprintLog: New page: Compile LobbyGM
+[2017.10.02-01.52.54:550][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2017.10.02-01.52.54:583][673]LogSavePackage: Save=15.60ms
+[2017.10.02-01.52.54:583][673]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyGM36CD317B4BB46458AD39BAB4F4FB9E5E.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2017.10.02-01.52.54:586][673]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/Blueprints/Lobby/LobbyGM.uasset
+[2017.10.02-02.02.05:549][747]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.029
+[2017.10.02-02.02.05:551][747]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2017.10.02-02.02.05:551][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2017.10.02-02.02.05:671][747]LogSavePackage: Save=98.98ms
+[2017.10.02-02.02.05:671][747]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu_Auto1CAD336A1479E582F498B0FA58EDD321B.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset'
+[2017.10.02-02.02.05:674][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset
+[2017.10.02-02.02.05:674][747]LogFileHelpers: Auto-saving content packages took 0.124
+[2017.10.02-02.03.26:459][499]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.02-02.03.26:857][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2017.10.02-02.03.26:975][513]LogSavePackage: Save=106.53ms
+[2017.10.02-02.03.26:975][513]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenuB2EAA14843F2550D7780DD97E15BB81B.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset'
+[2017.10.02-02.03.26:978][513]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset
+[2017.10.02-02.07.53:953][666]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.02-02.07.54:339][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2017.10.02-02.07.54:466][678]LogSavePackage: Save=109.21ms
+[2017.10.02-02.07.54:466][678]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenuD0BEB1B24CE16B03317D9AAC8BC7474A.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset'
+[2017.10.02-02.07.54:470][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset
+[2017.10.02-11.52.28:173][878]LogHttp: Warning: 00000247F87E9780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.02-11.52.28:174][878]LogHttp: Warning: 00000247F87E9780: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2473bc4ffb8 [can pipeline])
+[2017.10.02-11.52.28:174][878]LogHttp: Warning: 00000247F87E9780: libcurl info message cache 1 (Re-using existing connection! (#309) with host datarouter.ol.epicgames.com)
+[2017.10.02-11.52.28:174][878]LogHttp: Warning: 00000247F87E9780: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.152.133.238) port 443 (#309))
+[2017.10.02-11.52.28:174][878]LogHttp: Warning: 00000247F87E9780: libcurl info message cache 3 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.10.02-11.52.28:174][878]LogHttp: Warning: 00000247F87E9780: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2017.10.02-11.52.28:174][878]LogHttp: Warning: 00000247F87E9780: libcurl info message cache 5 (Closing connection 309)
+[2017.10.02-11.52.28:174][878]LogHttp: Warning: 00000247F87E9780: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6378AFE9-4955-22FC-7DC3-AA91A4E338A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=c19455da4e9942465a9434b53fdba419%7Cd8e1cdd51d1c479f8a85754926729c65%7C107367ae-b7ca-4457-9e4d-cb26e87773d6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.10.02-11.52.28:174][878]LogHttp: Warning: 00000247F87E9780: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.02-11.52.28:174][878]LogHttp: Warning: 00000247F87E9780: libcurl info message cache 8 (Closing connection 310)
+[2017.10.02-23.56.12:016][605]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.147
+[2017.10.02-23.56.12:018][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2017.10.02-23.56.12:018][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2017.10.02-23.56.12:163][605]LogSavePackage: Save=113.94ms
+[2017.10.02-23.56.12:163][605]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu_Auto22334F50D4D4E83114AE6D48819B054B8.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto2.uasset'
+[2017.10.02-23.56.12:165][605]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto2.uasset
+[2017.10.02-23.56.12:165][605]LogFileHelpers: Auto-saving content packages took 0.148
+[2017.10.03-00.04.53:618][679]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.03-00.04.54:235][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2017.10.03-00.04.54:367][729]LogSavePackage: Save=108.35ms
+[2017.10.03-00.04.54:367][729]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu53084FAE40DA7855CB57D7A1DB30E6E2.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset'
+[2017.10.03-00.04.54:373][729]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset
+[2017.10.03-00.06.12:787][141]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.026
+[2017.10.03-00.06.12:789][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2017.10.03-00.06.12:789][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2017.10.03-00.06.12:913][141]LogSavePackage: Save=110.74ms
+[2017.10.03-00.06.12:913][141]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu_Auto3F2FB66DA443ACF44BE0DA2BE862ECA10.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto3.uasset'
+[2017.10.03-00.06.12:915][141]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto3.uasset
+[2017.10.03-00.06.12:916][141]LogFileHelpers: Auto-saving content packages took 0.127
+[2017.10.03-00.34.14:097][940]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.03-00.34.48:404][790]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.035
+[2017.10.03-00.34.48:406][790]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2017.10.03-00.34.48:406][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2017.10.03-00.34.48:557][790]LogSavePackage: Save=121.35ms
+[2017.10.03-00.34.48:558][790]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu_Auto4F08356A14EEF145CA7601BB70395F01B.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto4.uasset'
+[2017.10.03-00.34.48:560][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto4.uasset
+[2017.10.03-00.34.48:560][790]LogFileHelpers: Auto-saving content packages took 0.155
+[2017.10.03-00.42.20:317][152]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.03-00.42.20:817][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2017.10.03-00.42.20:967][170]LogSavePackage: Save=124.97ms
+[2017.10.03-00.42.20:967][170]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu2485A00F45AE49D42B273580110451A9.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset'
+[2017.10.03-00.42.20:970][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset
+[2017.10.03-00.43.41:841][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/GameSettings" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/GameSettings.uasset" SILENT=true
+[2017.10.03-00.43.41:870][ 77]LogSavePackage: Save=11.78ms
+[2017.10.03-00.43.41:870][ 77]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/GameSettingsF10F59DD42CBD4958298978773F48710.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/GameSettings.uasset'
+[2017.10.03-00.43.41:876][ 77]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/GameSettings.uasset
+[2017.10.03-00.45.13:090][565]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.03-00.45.13:163][565]LogBlueprint: Warning: [Compiler LobbyMenu] Could not find the function 'FillPlayersWindow' called from  Fill Players Window
+[2017.10.03-00.45.13:210][565]LogBlueprint: Warning: [Compiler LobbyMenu] [2955.23] Compile of LobbyMenu successful, but with 1 Warning(s) [in 119 ms] (/Game/UI/Lobby/LobbyMenu.LobbyMenu)
+[2017.10.03-00.45.42:552][305]BlueprintLog: New page: Compile GameSettings
+[2017.10.03-00.46.14:914][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.036
+[2017.10.03-00.46.14:916][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2017.10.03-00.46.14:916][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2017.10.03-00.46.15:084][853]LogSavePackage: Save=145.37ms
+[2017.10.03-00.46.15:084][853]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu_Auto594C8A55D42E76B8DDE53BFA5F323ECF8.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto5.uasset'
+[2017.10.03-00.46.15:090][853]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto5.uasset
+[2017.10.03-00.46.15:090][853]LogFileHelpers: Auto-saving content packages took 0.176
+[2017.10.03-00.49.26:764][230]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.03-00.57.01:424][878]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.041
+[2017.10.03-00.57.01:426][878]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2017.10.03-00.57.01:426][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2017.10.03-00.57.01:619][878]LogSavePackage: Save=161.94ms
+[2017.10.03-00.57.01:619][878]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenu_Auto646BCBBC54A450651FAEB1B97F4EF50B8.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto6.uasset'
+[2017.10.03-00.57.01:621][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto6.uasset
+[2017.10.03-00.57.01:622][878]LogFileHelpers: Auto-saving content packages took 0.196
+[2017.10.03-00.57.48:499][595]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.10.03-01.00.18:331][839]BlueprintLog: New page: Compile LobbyMenu
+[2017.10.03-01.00.27:409][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2017.10.03-01.00.27:591][199]LogSavePackage: Save=163.01ms
+[2017.10.03-01.00.27:591][199]LogSavePackage: Moving '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Saved/LobbyMenuD7EA30994B49FF1E50F065B0AE00A8D2.tmp' to '../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset'
+[2017.10.03-01.00.27:595][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/croch/Documents/Unreal Projects/ElementalSphere/Content/UI/Lobby/LobbyMenu.uasset
